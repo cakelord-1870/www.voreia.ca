@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.voreia.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.voreia.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.voreia.ca/collections/shaving-brushes-pure-badger.atom"/>
+  <title>Voreia Industries Inc. </title>
+  <updated>2017-06-13T10:20:22-04:00</updated>
+  <author>
+    <name>Voreia Industries Inc. </name>
+  </author>
+  <entry>
+    <id>https://www.voreia.ca/products/11006106892</id>
+    <published>2017-06-13T10:20:22-04:00</published>
+    <updated>2017-06-13T10:20:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/e-shave-travel-brush-black-fine-w-can"/>
+    <title>eShave Travel Brush Black/Fine w/Can</title>
+    <s:type>Shaving Brushes - Pure Badger</s:type>
+    <s:vendor>eShave</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/Badger_Hair_Travel_Brush_Black_Fine_Zoom.jpg?v=1497366821"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>eShave<br>
+        <strong>Type: </strong>Shaving Brushes - Pure Badger<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11006106892</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>ES-80019</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11006106764</id>
+    <published>2017-06-13T10:20:21-04:00</published>
+    <updated>2017-06-13T10:20:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/e-shave-travel-brush-blue-fine-w-can"/>
+    <title>eShave Travel Brush Blue - Fine Badger with Can</title>
+    <s:type>Shaving Brushes - Pure Badger</s:type>
+    <s:vendor>eShave</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/Badger_Hair_Travel_Brush_Blue_Fine_Zoom.jpg?v=1497366867"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>eShave<br>
+        <strong>Type: </strong>Shaving Brushes - Pure Badger<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11006106764</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>ES-80011</s:sku>
+      <s:grams>105</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11006106700</id>
+    <published>2017-06-13T10:20:21-04:00</published>
+    <updated>2017-06-13T10:20:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/e-shave-shave-brush-black-fine"/>
+    <title>eShave Shave Brush Black - Fine Badger</title>
+    <s:type>Shaving Brushes - Pure Badger</s:type>
+    <s:vendor>eShave</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/Badger_Hair_Brush_Black_Fine_Zoom.jpg?v=1497366345"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>eShave<br>
+        <strong>Type: </strong>Shaving Brushes - Pure Badger<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11006106700</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>ES-80009</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11006106572</id>
+    <published>2017-06-13T10:20:21-04:00</published>
+    <updated>2017-06-13T10:20:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/e-shave-shave-brush-smoke-fine"/>
+    <title>eShave Shave Brush Smoke - Fine Badger</title>
+    <s:type>Shaving Brushes - Pure Badger</s:type>
+    <s:vendor>eShave</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/Badger_Hair_Brush_Smoke_Fine_Zoom.jpg?v=1497366515"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>eShave<br>
+        <strong>Type: </strong>Shaving Brushes - Pure Badger<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11006106572</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>ES-80004</s:sku>
+      <s:grams>99</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11006106380</id>
+    <published>2017-06-13T10:20:20-04:00</published>
+    <updated>2017-06-13T10:20:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/e-shave-shave-brush-blue-fine"/>
+    <title>eShave Shave Brush Blue - Fine Badger</title>
+    <s:type>Shaving Brushes - Pure Badger</s:type>
+    <s:vendor>eShave</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/Badger_Hair_Brush_Blue_Fine_Zoom.jpg?v=1497366442"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>eShave<br>
+        <strong>Type: </strong>Shaving Brushes - Pure Badger<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11006106380</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>ES-80001</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11006106252</id>
+    <published>2017-06-13T10:20:20-04:00</published>
+    <updated>2017-06-13T10:20:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/e-shave-shave-brush-white-fine"/>
+    <title>eShave Shave Brush White - Fine Badger</title>
+    <s:type>Shaving Brushes - Pure Badger</s:type>
+    <s:vendor>eShave</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/Badger_Hair_Brush_Ivory_Fine_Zoom.jpg?v=1497366620"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>eShave<br>
+        <strong>Type: </strong>Shaving Brushes - Pure Badger<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">https://cdn.shopify.com/s/files/1/1835/1911/products/Badger_Hair_Brush_Ivory_Fine_Zoom.jpg?v=1489092225</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11006106252</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>ES-80000</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9769993164</id>
+    <published>2017-02-23T20:43:43-05:00</published>
+    <updated>2017-02-23T20:43:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/simpsons-special-s1-pure-badger"/>
+    <title>Simpsons - Special S1 Pure Badger</title>
+    <s:type>Shaving Brushes - Pure Badger</s:type>
+    <s:vendor>Simpsons Shaving Brushes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/SIM-S1_P_ShavBrush_SpecialS1Pure_F2.jpg?v=1487902434"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Simpsons Shaving Brushes<br>
+        <strong>Type: </strong>Shaving Brushes - Pure Badger<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769993164</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>SIM-S1-P</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9769986956</id>
+    <published>2017-02-23T20:43:27-05:00</published>
+    <updated>2017-02-23T20:43:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/simpsons-the-eagle-g3-pure-badger"/>
+    <title>Simpsons - The Eagle G3 Pure Badger</title>
+    <s:type>Shaving Brushes - Pure Badger</s:type>
+    <s:vendor>Simpsons Shaving Brushes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/SIM-G3-P_ShavBrush_EagleG3Pure_F2.jpg?v=1487902130"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Simpsons Shaving Brushes<br>
+        <strong>Type: </strong>Shaving Brushes - Pure Badger<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769986956</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>SIM-G3-P</s:sku>
+      <s:grams>123</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9769986636</id>
+    <published>2017-02-23T20:43:26-05:00</published>
+    <updated>2017-02-23T20:43:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/simpsons-the-eagle-g2-pure-badger"/>
+    <title>Simpsons - The Eagle G2 Pure Badger</title>
+    <s:type>Shaving Brushes - Pure Badger</s:type>
+    <s:vendor>Simpsons Shaving Brushes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/SIM-G2-P_ShavBrush_EagleG2Pure_F2.jpg?v=1487902280"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Simpsons Shaving Brushes<br>
+        <strong>Type: </strong>Shaving Brushes - Pure Badger<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769986636</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>SIM-G2-P</s:sku>
+      <s:grams>99</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9769986508</id>
+    <published>2017-02-23T20:43:26-05:00</published>
+    <updated>2017-02-23T20:43:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/simpsons-the-eagle-g1-pure-badger"/>
+    <title>Simpsons - The Eagle G1 Pure Badger</title>
+    <s:type>Shaving Brushes - Pure Badger</s:type>
+    <s:vendor>Simpsons Shaving Brushes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/SIM-G1-P_ShavBrush_EagleG1Pure_F2.jpg?v=1487902344"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Simpsons Shaving Brushes<br>
+        <strong>Type: </strong>Shaving Brushes - Pure Badger<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769986508</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>SIM-G1-P</s:sku>
+      <s:grams>87</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9769985932</id>
+    <published>2017-02-23T20:43:24-05:00</published>
+    <updated>2017-02-23T20:43:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/simpsons-sampson-display"/>
+    <title>Simpsons - Sampson Display</title>
+    <s:type>Shaving Brushes - Pure Badger</s:type>
+    <s:vendor>Simpsons Shaving Brushes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Simpsons Shaving Brushes<br>
+        <strong>Type: </strong>Shaving Brushes - Pure Badger<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769985932</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>SIM-DISPLAY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9769985868</id>
+    <published>2017-02-23T20:43:24-05:00</published>
+    <updated>2017-02-23T20:43:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/simpsons-duke-d3-pure-badger"/>
+    <title>Simpsons - Duke D3 Pure Badger</title>
+    <s:type>Shaving Brushes - Pure Badger</s:type>
+    <s:vendor>Simpsons Shaving Brushes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/SIM-D3-P_ShavBrush_DukeD3Pure_F2.jpg?v=1488132939"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Simpsons Shaving Brushes<br>
+        <strong>Type: </strong>Shaving Brushes - Pure Badger<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769985868</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>SIM-D3-P</s:sku>
+      <s:grams>115</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9769985484</id>
+    <published>2017-02-23T20:43:23-05:00</published>
+    <updated>2017-02-23T20:43:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/simpsons-duke-d2-pure-badger"/>
+    <title>Simpsons - Duke D2 Pure Badger</title>
+    <s:type>Shaving Brushes - Pure Badger</s:type>
+    <s:vendor>Simpsons Shaving Brushes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/SIM-D2-P_ShavBrush_DukeD2Pure_F2.jpg?v=1488132790"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Simpsons Shaving Brushes<br>
+        <strong>Type: </strong>Shaving Brushes - Pure Badger<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769985484</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>SIM-D2-P</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9769985228</id>
+    <published>2017-02-23T20:43:22-05:00</published>
+    <updated>2017-02-23T20:43:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/simpsons-duke-d1-pure-badger"/>
+    <title>Simpsons - Duke D1 Pure Badger</title>
+    <s:type>Shaving Brushes - Pure Badger</s:type>
+    <s:vendor>Simpsons Shaving Brushes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/SIM-D1-P_ShavBrush_DukeD1Pure_F2.jpg?v=1488132697"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Simpsons Shaving Brushes<br>
+        <strong>Type: </strong>Shaving Brushes - Pure Badger<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769985228</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>SIM-D1-P</s:sku>
+      <s:grams>79</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9769983308</id>
+    <published>2017-02-23T20:43:17-05:00</published>
+    <updated>2017-02-23T20:43:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/simpsons-case-c1-pure-badger"/>
+    <title>Simpsons - Case C1 Pure Badger</title>
+    <s:type>Shaving Brushes - Pure Badger</s:type>
+    <s:vendor>Simpsons Shaving Brushes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/SIM-C1-P_ShavBrush_CaseC1Pure_F2.jpg?v=1488130507"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Simpsons Shaving Brushes<br>
+        <strong>Type: </strong>Shaving Brushes - Pure Badger<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769983308</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>SIM-C1-P</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9769983180</id>
+    <published>2017-02-23T20:43:16-05:00</published>
+    <updated>2017-02-23T20:43:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/simpsons-beaufort-b6-pure-badger"/>
+    <title>Simpsons - Beaufort B6 Pure Badger</title>
+    <s:type>Shaving Brushes - Pure Badger</s:type>
+    <s:vendor>Simpsons Shaving Brushes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/SIM-B6-P_ShavBrush_BeaufortB6Pure_F2.jpg?v=1488130046"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Simpsons Shaving Brushes<br>
+        <strong>Type: </strong>Shaving Brushes - Pure Badger<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769983180</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>SIM-B6-P</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9769983052</id>
+    <published>2017-02-23T20:43:15-05:00</published>
+    <updated>2017-02-23T20:43:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/simpsons-beaufort-b5-pure-badger"/>
+    <title>Simpsons - Beaufort B5 Pure Badger</title>
+    <s:type>Shaving Brushes - Pure Badger</s:type>
+    <s:vendor>Simpsons Shaving Brushes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/SIM-B5-P_ShavBrush_BeaufortB5Pure_F2.jpg?v=1488129978"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Simpsons Shaving Brushes<br>
+        <strong>Type: </strong>Shaving Brushes - Pure Badger<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769983052</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>SIM-B5-P</s:sku>
+      <s:grams>118</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9769982924</id>
+    <published>2017-02-23T20:43:15-05:00</published>
+    <updated>2017-02-23T20:43:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/simpsons-beaufort-b4-pure-badger"/>
+    <title>Simpsons - Beaufort B4 Pure Badger</title>
+    <s:type>Shaving Brushes - Pure Badger</s:type>
+    <s:vendor>Simpsons Shaving Brushes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/SIM-B4-P_ShavBrush_BeaufortB4Pure_F2.jpg?v=1488129903"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Simpsons Shaving Brushes<br>
+        <strong>Type: </strong>Shaving Brushes - Pure Badger<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769982924</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>SIM-B4-P</s:sku>
+      <s:grams>88</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9769982796</id>
+    <published>2017-02-23T20:43:15-05:00</published>
+    <updated>2017-02-23T20:43:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/simpsons-beaufort-b3-pure-badger"/>
+    <title>Simpsons - Beaufort B3 Pure Badger</title>
+    <s:type>Shaving Brushes - Pure Badger</s:type>
+    <s:vendor>Simpsons Shaving Brushes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/SIM-CH3-B_ShavBrush_ChubbyCH3Super_F2.jpg?v=1488129846"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Simpsons Shaving Brushes<br>
+        <strong>Type: </strong>Shaving Brushes - Pure Badger<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769982796</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>SIM-B3-P</s:sku>
+      <s:grams>87</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9769982476</id>
+    <published>2017-02-23T20:43:14-05:00</published>
+    <updated>2017-02-23T20:43:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/simpsons-beaufort-b2-pure-badger"/>
+    <title>Simpsons - Beaufort B2 Pure Badger</title>
+    <s:type>Shaving Brushes - Pure Badger</s:type>
+    <s:vendor>Simpsons Shaving Brushes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/SIM-B2-P_ShavBrush_BeaufortB2Pure_F2.jpg?v=1487910483"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Simpsons Shaving Brushes<br>
+        <strong>Type: </strong>Shaving Brushes - Pure Badger<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769982476</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>SIM-B2-P</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9769982412</id>
+    <published>2017-02-23T20:43:14-05:00</published>
+    <updated>2017-02-23T20:43:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/simpsons-beaufort-b1-pure-badger"/>
+    <title>Simpsons - Beaufort B1 Pure Badger</title>
+    <s:type>Shaving Brushes - Pure Badger</s:type>
+    <s:vendor>Simpsons Shaving Brushes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/SIM-B1-P_ShavBrush_BeaufortB1Pure_F2.jpg?v=1487910444"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Simpsons Shaving Brushes<br>
+        <strong>Type: </strong>Shaving Brushes - Pure Badger<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769982412</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>SIM-B1-P</s:sku>
+      <s:grams>76</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9769981836</id>
+    <published>2017-02-23T20:43:12-05:00</published>
+    <updated>2017-02-23T20:43:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/simpsons-berkeley-46-pure-badger"/>
+    <title>Simpsons - Berkeley 46 Pure Badger</title>
+    <s:type>Shaving Brushes - Pure Badger</s:type>
+    <s:vendor>Simpsons Shaving Brushes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/SIM-46-P_ShavBrush_Berkeley46pure_F2.jpg?v=1488130227"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Simpsons Shaving Brushes<br>
+        <strong>Type: </strong>Shaving Brushes - Pure Badger<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769981836</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>SIM-46-P</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+  </entry>
+</feed>

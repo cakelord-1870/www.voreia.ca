@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.voreia.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.voreia.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.voreia.ca/collections/castle-forbes.atom"/>
+  <title>Voreia Industries Inc. </title>
+  <updated>2017-02-23T15:50:00-05:00</updated>
+  <author>
+    <name>Voreia Industries Inc. </name>
+  </author>
+  <entry>
+    <id>https://www.voreia.ca/products/9768115340</id>
+    <published>2017-02-23T15:50:00-05:00</published>
+    <updated>2017-02-23T15:50:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/cf-eau-de-parfum-100ml-keig"/>
+    <title>CF Eau De Parfum 100ml - Keig</title>
+    <s:type>Aromatics - Cologne</s:type>
+    <s:vendor>Castle Forbes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/CF-07003_KeigEauParfum_S2.jpg?v=1487884125"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Castle Forbes<br>
+        <strong>Type: </strong>Aromatics - Cologne<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Castle Forbes Keig reflects a distinctive Scottish scent with a unique blend of Lemon, Lime, Sandalwood, and Cedarwood, Musk. Enjoy this refreshing scent in the elegance of its classic glass 100 ml bottle.<br>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9768115340</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>CF-07003</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9768115276</id>
+    <published>2017-02-23T15:50:00-05:00</published>
+    <updated>2017-02-23T15:50:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/cf-eau-de-parfum-100ml-forbes-of-forbes"/>
+    <title>CF Eau De Parfum 100ml -Forbes of Forbes</title>
+    <s:type>Aromatics - Cologne</s:type>
+    <s:vendor>Castle Forbes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/CF_06003_ForbesForForbes_S2.jpg?v=1487884311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Castle Forbes<br>
+        <strong>Type: </strong>Aromatics - Cologne<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Castle Forbes signature eau de parfume, Forbes of Forbes, is a masculine rugged outdoor scent with a unique blend of Orange, Mandarin, Basil Oakmoss, Pine and Clove, Patchouli, Amber, and Vanilla . Enjoy this unique and refreshing scent in the elegance of its classic glass 100 ml bottle.<br>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9768115276</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>CF-06003</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9768115148</id>
+    <published>2017-02-23T15:50:00-05:00</published>
+    <updated>2017-02-23T15:50:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/cf-aftershave-balm-150ml-1445"/>
+    <title>CF Aftershave Balm 150ml - 1445</title>
+    <s:type>Shaving Preparations - Aftershave Gel/Balm/Cream</s:type>
+    <s:vendor>Castle Forbes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/CF_05008_AfterShaveBalm_S2.jpg?v=1487883132"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Castle Forbes<br>
+        <strong>Type: </strong>Shaving Preparations - Aftershave Gel/Balm/Cream<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Luxurious moisturizing aftershave Balm with Witch Hazel to gently close the pores. This product supports the third step in your daily shave process, pre-shave, shave and aftershave moisturizing.  Enjoy the Castle Forbes signature 1445 Scent in a convenient 150 ml format.</div>
+<div>Contains only pure essential oils, free from fragrance, colours, and Parabens. In keeping with Castle Forbes Heritage, this product has been developed without animal testing.</div>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9768115148</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>CF-05008</s:sku>
+      <s:grams>205</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9768115020</id>
+    <published>2017-02-23T15:50:00-05:00</published>
+    <updated>2017-02-23T15:50:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/cf-eau-de-parfum-100ml-1445"/>
+    <title>CF Eau De Parfum 100ml - 1445</title>
+    <s:type>Aromatics - Cologne</s:type>
+    <s:vendor>Castle Forbes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/CF_05003_EauParfum1445_S2.jpg?v=1487883976"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Castle Forbes<br>
+        <strong>Type: </strong>Aromatics - Cologne<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Castle Forbes 1445 reflects the clean refreshing Scottish scent with a unique blend Petitgrain, Lemon, Tarragon, Lavender, Vetivert, Clove, and Patchouli. Enjoy the ambiance of the scent in the elegance of its classic glass 100 ml bottle.<br>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9768115020</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>CF-05003</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9768114956</id>
+    <published>2017-02-23T15:50:00-05:00</published>
+    <updated>2017-02-23T15:50:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/cf-eau-de-parfum-100ml-gentlemens-col"/>
+    <title>CF Eau De Parfum 100ml  - Gentleman&apos;s Cologne</title>
+    <s:type>Aromatics - Cologne</s:type>
+    <s:vendor>Castle Forbes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/CF_04003_EauParfumCologne_S2.jpg?v=1487884056"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Castle Forbes<br>
+        <strong>Type: </strong>Aromatics - Cologne<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Castle Forbes Gentlemen's Cologne captures the essence of the Scottish outdoors with a unique blend Bergamot, Lemon, Lime, Lavender, Sage, Sandalwood, Cedarwood and Musk. Enjoy the ambiance of the scent in the elegance of its classic glass 100 ml bottle.<br>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9768114956</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>CF-04003</s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9768114700</id>
+    <published>2017-02-23T15:50:00-05:00</published>
+    <updated>2017-02-23T15:50:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/cf-preshave-150ml-unscented"/>
+    <title>CF Preshave 150ml - Unscented</title>
+    <s:type>Shaving Preparations - Pre-Shave Gel/Balm/Cream</s:type>
+    <s:vendor>Castle Forbes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/CF_03074_PreShave_S2.jpg?v=1487884371"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Castle Forbes<br>
+        <strong>Type: </strong>Shaving Preparations - Pre-Shave Gel/Balm/Cream<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Castle Forbes Pre-shave is a uniquely water based unscented treatment for your beard. This product supports the first step in your daily shave process, pre-shave, shave and aftershave moisturizing.  Start your shave right with the Castle Forbes pre-shave in a convenient 150 ml format.<br>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9768114700</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>CF-03074</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9768114572</id>
+    <published>2017-02-23T15:50:00-05:00</published>
+    <updated>2017-02-23T15:50:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/cf-aftershave-balm-150ml-cedar-swood"/>
+    <title>CF Aftershave Balm 150ml - Cedar &amp; Sandalwood</title>
+    <s:type>Shaving Preparations - Aftershave Gel/Balm/Cream</s:type>
+    <s:vendor>Castle Forbes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/CF_03052_AfterShaveSandal_Cedar_S2.jpg?v=1487883206"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Castle Forbes<br>
+        <strong>Type: </strong>Shaving Preparations - Aftershave Gel/Balm/Cream<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="display: inline !important;">Luxurious moisturizing aftershave Balm with Witch Hazel to gently close the pores. This product supports the third step in your daily shave process, pre-shave, shave and aftershave moisturizing.  Enjoy the Castle Forbes refreshing <span>Cedarwood and Sandalwood</span> Scent in a convenient 150 ml format.</div>
+<div>Contains only pure essential oils, free from fragrance, colours, and Parabens. In keeping with Castle Forbes Heritage, this product has been developed without animal testing.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9768114572</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>CF-03052</s:sku>
+      <s:grams>205</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9768114508</id>
+    <published>2017-02-23T15:50:00-05:00</published>
+    <updated>2017-02-23T15:50:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/cf-aftershave-balm-150ml-lime"/>
+    <title>CF Aftershave Balm 150ml - Lime</title>
+    <s:type>Shaving Preparations - Aftershave Gel/Balm/Cream</s:type>
+    <s:vendor>Castle Forbes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/CF-03151_AftershaveBalmLime_S2.jpg?v=1497804315"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Castle Forbes<br>
+        <strong>Type: </strong>Shaving Preparations - Aftershave Gel/Balm/Cream<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Luxurious moisturizing aftershave Balm with Witch Hazel to gently close the pores. This product supports the third step in your daily shave process, pre-shave, shave and aftershave moisturizing.  Enjoy the Castle Forbes refreshing Lime Scent in a convenient 150 ml format.<br>Contains only pure essential oils, free from fragrance, colours, and Parabens. In keeping with Castle Forbes Heritage, this product has been developed without animal testing.</div>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9768114508</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>CF-03051</s:sku>
+      <s:grams>205</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9768114380</id>
+    <published>2017-02-23T15:50:00-05:00</published>
+    <updated>2017-02-23T15:50:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/cf-aftershave-balm-150ml-lavender"/>
+    <title>CF Aftershave Balm 150ml - Lavender</title>
+    <s:type>Shaving Preparations - Aftershave Gel/Balm/Cream</s:type>
+    <s:vendor>Castle Forbes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/CF_03050_AfterShaveLavender_S2.jpg?v=1487883320"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Castle Forbes<br>
+        <strong>Type: </strong>Shaving Preparations - Aftershave Gel/Balm/Cream<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Luxurious moisturizing aftershave Balm with Witch Hazel to gently close the pores. This product supports the third step in your daily shave process, pre-shave, shave and aftershave moisturizing.  Enjoy the Castle Forbes aromatic Lavender Scent in a convenient 150 ml format.<br>Contains only pure essential oils, free from fragrance, colours, and Parabens. In keeping with Castle Forbes Heritage, this product has been developed without animal testing.</div>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9768114380</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>CF-03050</s:sku>
+      <s:grams>205</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9768114252</id>
+    <published>2017-02-23T15:50:00-05:00</published>
+    <updated>2017-02-23T15:50:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/cf-shaving-cream-200ml-cedar-s-wood"/>
+    <title>CF Shaving Cream 200ml - Cedar &amp; Sandalwood</title>
+    <s:type>Shaving Preparations - Shaving Cream, Standard</s:type>
+    <s:vendor>Castle Forbes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/CF_03032_ShavingCreamcedar_Sandal_S2.jpg?v=1487884468"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Castle Forbes<br>
+        <strong>Type: </strong>Shaving Preparations - Shaving Cream, Standard<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Luxurious Shaving Cream producing a rich lather with only a slight amount of cream. This product supports the second step in your daily shave process, pre-shave, shave and aftershave moisturizing.  Enjoy the Castle Forbes aromatic Cedarwood and Sandalwood Scent from essential oils only for a noticeably close shave. In a 200 ml format. </p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9768114252</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>CF-03032</s:sku>
+      <s:grams>260</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9768114124</id>
+    <published>2017-02-23T15:50:00-05:00</published>
+    <updated>2017-02-23T15:50:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/cf-shaving-cream-200ml-lime"/>
+    <title>CF Shaving Cream 200ml - Lime</title>
+    <s:type>Shaving Preparations - Shaving Cream, Standard</s:type>
+    <s:vendor>Castle Forbes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/CF_03031_ShavingCreamLime_S2.jpg?v=1487884638"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Castle Forbes<br>
+        <strong>Type: </strong>Shaving Preparations - Shaving Cream, Standard<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><span>Luxurious Shaving Cream producing a rich lather with only a slight amount of cream. This product supports the second step in your daily shave process, pre-shave, shave and aftershave moisturizing.  Enjoy the Castle Forbes aromatic Lime Scent from essential oils only for a noticeably close shave. In a 200 ml format.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9768114124</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>CF-03031</s:sku>
+      <s:grams>260</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9768113996</id>
+    <published>2017-02-23T15:50:00-05:00</published>
+    <updated>2017-02-23T15:50:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/cf-shaving-cream-200ml-lavender"/>
+    <title>CF Shaving Cream 200ml - Lavender</title>
+    <s:type>Shaving Preparations - Shaving Cream, Standard</s:type>
+    <s:vendor>Castle Forbes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/CF_03030_ShavingCreamLavender_S2.jpg?v=1487884550"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Castle Forbes<br>
+        <strong>Type: </strong>Shaving Preparations - Shaving Cream, Standard<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Luxurious Shaving Cream producing a rich lather with only a slight amount of cream. This product supports the second step in your daily shave process, pre-shave, shave and aftershave moisturizing.  Enjoy the Castle Forbes aromatic Lavendar Scent from essential oils only for a noticeably close shave. In a 200 ml format.<br>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9768113996</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>CF-03030</s:sku>
+      <s:grams>260</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9768113868</id>
+    <published>2017-02-23T15:50:00-05:00</published>
+    <updated>2017-02-23T15:50:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/cf-eau-de-parfum-100ml-sr-vetiver"/>
+    <title>CF Eau De Parfum 100ml - SR Vetiver</title>
+    <s:type>Aromatics - Cologne</s:type>
+    <s:vendor>Castle Forbes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/CF_02005_EauParfumVetiver_S2.jpg?v=1487884250"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Castle Forbes<br>
+        <strong>Type: </strong>Aromatics - Cologne<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Castle Forbes Vertiver is a premium extract of vetiver roots, blending Citrus, Blue Cypress, Cedarwood and Black Pepper oil. Enjoy this unique and refreshing scent in the elegance of its classic glass 100 ml bottle.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9768113868</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>CF-02005</s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9768113740</id>
+    <published>2017-02-23T15:50:00-05:00</published>
+    <updated>2017-02-23T15:50:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/cf-eau-de-parfum-100ml-sr-neroli"/>
+    <title>CF Eau De Parfum 100ml - SR Neroli</title>
+    <s:type>Aromatics - Cologne</s:type>
+    <s:vendor>Castle Forbes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/CF_02004_EauParfumNoreli_S2.jpg?v=1487884185"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Castle Forbes<br>
+        <strong>Type: </strong>Aromatics - Cologne<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Castle Forbes Neroli is a distinctive orange scent with a unique blend from the Bitter Orange Tree; Neroli, Petitgrain Oil, and Orange. Enjoy this unique and refreshing scent in the elegance of its classic glass 100 ml bottle.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9768113740</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>CF-02004</s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,911 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.voreia.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.voreia.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.voreia.ca/collections/eshave.atom"/>
+  <title>Voreia Industries Inc. </title>
+  <updated>2017-06-13T10:20:25-04:00</updated>
+  <author>
+    <name>Voreia Industries Inc. </name>
+  </author>
+  <entry>
+    <id>https://www.voreia.ca/products/11006107788</id>
+    <published>2017-06-13T10:20:25-04:00</published>
+    <updated>2017-06-13T10:20:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/e-shave-bath-soap-200g-white-tea"/>
+    <title>eShave Bath Soap 200g - White Tea</title>
+    <s:type>Soap, Toliet Use - Soap, Bath</s:type>
+    <s:vendor>eShave</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/bath-soap-WT.jpg?v=1497364285"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>eShave<br>
+        <strong>Type: </strong>Soap, Toliet Use - Soap, Bath<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11006107788</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>ES-99709</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11006107660</id>
+    <published>2017-06-13T10:20:24-04:00</published>
+    <updated>2017-06-13T10:20:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/e-shave-bath-soap-200g-verbena-lime"/>
+    <title>eShave Bath Soap 200g - Verbena Lime</title>
+    <s:type>Soap, Toliet Use - Soap, Bath</s:type>
+    <s:vendor>eShave</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/bath-soap-VL.jpg?v=1497364246"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>eShave<br>
+        <strong>Type: </strong>Soap, Toliet Use - Soap, Bath<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11006107660</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>ES-99707</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11006107532</id>
+    <published>2017-06-13T10:20:24-04:00</published>
+    <updated>2017-06-13T10:20:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/e-shave-bath-soap-200g-ornge-swood"/>
+    <title>eShave Bath Soap 200g - Orange Sandalwood</title>
+    <s:type>Soap, Toliet Use - Soap, Bath</s:type>
+    <s:vendor>eShave</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/bath-soap-OS.jpg?v=1497364157"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>eShave<br>
+        <strong>Type: </strong>Soap, Toliet Use - Soap, Bath<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11006107532</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>ES-99704</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11006107404</id>
+    <published>2017-06-13T10:20:24-04:00</published>
+    <updated>2017-06-13T10:20:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/e-shave-hair-styler-50g-orange-mint"/>
+    <title>eShave Hair Styler 50g - Orange Mint</title>
+    <s:type>Styling Products - Hair Cream</s:type>
+    <s:vendor>eShave</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/hair_styler.jpg?v=1497365164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>eShave<br>
+        <strong>Type: </strong>Styling Products - Hair Cream<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11006107404</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>ES-97104</s:sku>
+      <s:grams>83</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11006107276</id>
+    <published>2017-06-13T10:20:23-04:00</published>
+    <updated>2017-06-13T10:20:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/e-shave-face-scrub-50g-white-tea"/>
+    <title>eShave Face Scrub 50g - White Tea</title>
+    <s:type>Skin Care - Facial Scrubs</s:type>
+    <s:vendor>eShave</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/face_scrub.jpg?v=1497364976"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>eShave<br>
+        <strong>Type: </strong>Skin Care - Facial Scrubs<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11006107276</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>ES-94109</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11006107212</id>
+    <published>2017-06-13T10:20:23-04:00</published>
+    <updated>2017-06-13T10:20:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/e-shave-face-wash-113g-white-tea"/>
+    <title>eShave Face Wash 113g - White Tea</title>
+    <s:type>Soap, Toliet Use - Liquid Soap, Bath</s:type>
+    <s:vendor>eShave</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/face_wash.jpg?v=1497365092"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>eShave<br>
+        <strong>Type: </strong>Soap, Toliet Use - Liquid Soap, Bath<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11006107212</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>ES-93409</s:sku>
+      <s:grams>144</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11006107148</id>
+    <published>2017-06-13T10:20:22-04:00</published>
+    <updated>2017-06-13T10:20:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/e-shave-eye-cream-15g-white-tea"/>
+    <title>eShave Eye Cream 15g - White Tea</title>
+    <s:type>Skin Care - Eye Creams</s:type>
+    <s:vendor>eShave</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/eye_cream.jpg?v=1497364801"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>eShave<br>
+        <strong>Type: </strong>Skin Care - Eye Creams<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11006107148</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>ES-92009</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11006107020</id>
+    <published>2017-06-13T10:20:22-04:00</published>
+    <updated>2017-06-13T10:20:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/e-shave-face-moisturizer-50g-white-tea"/>
+    <title>eShave Face Moisturizer 50g - White Tea</title>
+    <s:type>Skin Care - Hand &amp; Body Lotions</s:type>
+    <s:vendor>eShave</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/face_moisturizer.jpg?v=1497364910"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>eShave<br>
+        <strong>Type: </strong>Skin Care - Hand &amp; Body Lotions<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11006107020</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>ES-91109</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11006106892</id>
+    <published>2017-06-13T10:20:22-04:00</published>
+    <updated>2017-06-13T10:20:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/e-shave-travel-brush-black-fine-w-can"/>
+    <title>eShave Travel Brush Black/Fine w/Can</title>
+    <s:type>Shaving Brushes - Pure Badger</s:type>
+    <s:vendor>eShave</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/Badger_Hair_Travel_Brush_Black_Fine_Zoom.jpg?v=1497366821"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>eShave<br>
+        <strong>Type: </strong>Shaving Brushes - Pure Badger<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11006106892</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>ES-80019</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11006106764</id>
+    <published>2017-06-13T10:20:21-04:00</published>
+    <updated>2017-06-13T10:20:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/e-shave-travel-brush-blue-fine-w-can"/>
+    <title>eShave Travel Brush Blue - Fine Badger with Can</title>
+    <s:type>Shaving Brushes - Pure Badger</s:type>
+    <s:vendor>eShave</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/Badger_Hair_Travel_Brush_Blue_Fine_Zoom.jpg?v=1497366867"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>eShave<br>
+        <strong>Type: </strong>Shaving Brushes - Pure Badger<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11006106764</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>ES-80011</s:sku>
+      <s:grams>105</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11006106700</id>
+    <published>2017-06-13T10:20:21-04:00</published>
+    <updated>2017-06-13T10:20:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/e-shave-shave-brush-black-fine"/>
+    <title>eShave Shave Brush Black - Fine Badger</title>
+    <s:type>Shaving Brushes - Pure Badger</s:type>
+    <s:vendor>eShave</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/Badger_Hair_Brush_Black_Fine_Zoom.jpg?v=1497366345"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>eShave<br>
+        <strong>Type: </strong>Shaving Brushes - Pure Badger<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11006106700</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>ES-80009</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11006106572</id>
+    <published>2017-06-13T10:20:21-04:00</published>
+    <updated>2017-06-13T10:20:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/e-shave-shave-brush-smoke-fine"/>
+    <title>eShave Shave Brush Smoke - Fine Badger</title>
+    <s:type>Shaving Brushes - Pure Badger</s:type>
+    <s:vendor>eShave</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/Badger_Hair_Brush_Smoke_Fine_Zoom.jpg?v=1497366515"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>eShave<br>
+        <strong>Type: </strong>Shaving Brushes - Pure Badger<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11006106572</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>ES-80004</s:sku>
+      <s:grams>99</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11006106380</id>
+    <published>2017-06-13T10:20:20-04:00</published>
+    <updated>2017-06-13T10:20:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/e-shave-shave-brush-blue-fine"/>
+    <title>eShave Shave Brush Blue - Fine Badger</title>
+    <s:type>Shaving Brushes - Pure Badger</s:type>
+    <s:vendor>eShave</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/Badger_Hair_Brush_Blue_Fine_Zoom.jpg?v=1497366442"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>eShave<br>
+        <strong>Type: </strong>Shaving Brushes - Pure Badger<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11006106380</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>ES-80001</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11006106252</id>
+    <published>2017-06-13T10:20:20-04:00</published>
+    <updated>2017-06-13T10:20:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/e-shave-shave-brush-white-fine"/>
+    <title>eShave Shave Brush White - Fine Badger</title>
+    <s:type>Shaving Brushes - Pure Badger</s:type>
+    <s:vendor>eShave</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/Badger_Hair_Brush_Ivory_Fine_Zoom.jpg?v=1497366620"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>eShave<br>
+        <strong>Type: </strong>Shaving Brushes - Pure Badger<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">https://cdn.shopify.com/s/files/1/1835/1911/products/Badger_Hair_Brush_Ivory_Fine_Zoom.jpg?v=1489092225</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11006106252</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>ES-80000</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11006106060</id>
+    <published>2017-06-13T10:20:19-04:00</published>
+    <updated>2017-06-13T10:20:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/e-shave-razor-travel-nickel-black-fusion"/>
+    <title>eShave Razor Travel Nickel &amp; Black Finish - Fusion System</title>
+    <s:type>Razors &amp; Blades - Fusion System Razors</s:type>
+    <s:vendor>eShave</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/new_travel_Razor_5B_black.jpg?v=1497365886"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>eShave<br>
+        <strong>Type: </strong>Razors &amp; Blades - Fusion System Razors<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11006106060</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>ES-75019</s:sku>
+      <s:grams>124</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11006105932</id>
+    <published>2017-06-13T10:20:19-04:00</published>
+    <updated>2017-06-13T10:20:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/e-shave-razor-travel-nickel-blue-fusion"/>
+    <title>eShave Razor Travel Nickel &amp; Blue - Fusion System</title>
+    <s:type>Razors &amp; Blades - Fusion System Razors</s:type>
+    <s:vendor>eShave</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/5razor_travel_blue_nickel_zoom.jpg?v=1497366067"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>eShave<br>
+        <strong>Type: </strong>Razors &amp; Blades - Fusion System Razors<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11006105932</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>ES-75011</s:sku>
+      <s:grams>124</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11006105868</id>
+    <published>2017-06-13T10:20:19-04:00</published>
+    <updated>2017-06-13T10:20:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/e-shave-razor-black-plastic-fusion"/>
+    <title>eShave Razor Black Plastic - Fusion Blade System</title>
+    <s:type>Razors &amp; Blades - Fusion System Razors</s:type>
+    <s:vendor>eShave</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/5blade_new_head_black.jpg?v=1497365640"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>eShave<br>
+        <strong>Type: </strong>Razors &amp; Blades - Fusion System Razors<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11006105868</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>ES-75009</s:sku>
+      <s:grams>72</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11006105804</id>
+    <published>2017-06-13T10:20:18-04:00</published>
+    <updated>2017-06-13T10:20:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/e-shave-razor-smoke-plastic-fusion"/>
+    <title>eShave Razor Smoke Plastic - Fusion System</title>
+    <s:type>Razors &amp; Blades - Fusion System Razors</s:type>
+    <s:vendor>eShave</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/5_blade_with_new_head_smoke.jpg?v=1497365782"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>eShave<br>
+        <strong>Type: </strong>Razors &amp; Blades - Fusion System Razors<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11006105804</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>ES-75004</s:sku>
+      <s:grams>74</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11006105740</id>
+    <published>2017-06-13T10:20:18-04:00</published>
+    <updated>2017-06-13T10:20:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/e-shave-razor-blue-plastic-fusion"/>
+    <title>eShave Razor Blue Plastic - Fusion System</title>
+    <s:type>Razors &amp; Blades - Fusion System Razors</s:type>
+    <s:vendor>eShave</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/5_blade_with_new_head_blue.jpg?v=1497365729"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>eShave<br>
+        <strong>Type: </strong>Razors &amp; Blades - Fusion System Razors<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11006105740</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>ES-75001</s:sku>
+      <s:grams>74</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11006105676</id>
+    <published>2017-06-13T10:20:18-04:00</published>
+    <updated>2017-06-13T10:20:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/e-shave-razor-white-plastic-fusion"/>
+    <title>eShave Razor White Plastic - Fusion System</title>
+    <s:type>Razors &amp; Blades - Fusion System Razors</s:type>
+    <s:vendor>eShave</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/5_blade_with_new_head_ivory.jpg?v=1497366210"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>eShave<br>
+        <strong>Type: </strong>Razors &amp; Blades - Fusion System Razors<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11006105676</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>ES-75000</s:sku>
+      <s:grams>74</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11006105548</id>
+    <published>2017-06-13T10:20:17-04:00</published>
+    <updated>2017-06-13T10:20:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/e-shave-de-razor-nickel-black-handle"/>
+    <title>eShave Double Edge Razor - Nickel &amp; Black Handle</title>
+    <s:type>Razors &amp; Blades - Safety Razors (3Pc)</s:type>
+    <s:vendor>eShave</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/Zoom_Black_Double_Edge_Razor.jpg?v=1497364344"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>eShave<br>
+        <strong>Type: </strong>Razors &amp; Blades - Safety Razors (3Pc)<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">E-Shave DE Razor - Nickel &amp; Black Handle</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11006105548</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>ES-72009</s:sku>
+      <s:grams>104</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11006105356</id>
+    <published>2017-06-13T10:20:17-04:00</published>
+    <updated>2017-06-13T10:20:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/e-shave-de-razor-nickel-blue-handle"/>
+    <title>eShave Double Edge Razor - Nickel &amp; Blue Handle</title>
+    <s:type>Razors &amp; Blades - Safety Razors (3Pc)</s:type>
+    <s:vendor>eShave</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/Zoom_Blue_Double_Edge_Razor.jpg?v=1497366950"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>eShave<br>
+        <strong>Type: </strong>Razors &amp; Blades - Safety Razors (3Pc)<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11006105356</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>ES-72001</s:sku>
+      <s:grams>106</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11006105292</id>
+    <published>2017-06-13T10:20:16-04:00</published>
+    <updated>2017-06-13T10:20:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/e-shave-razor-brush-stand-nickel-sz-s"/>
+    <title>eShave Razor &amp; Brush Stand Nickel SZ:S</title>
+    <s:type>Razors &amp; Blades - Razor Stands</s:type>
+    <s:vendor>eShave</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/S_Stand_Nickel_Zoom.jpg?v=1497365421"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>eShave<br>
+        <strong>Type: </strong>Razors &amp; Blades - Razor Stands<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11006105292</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>ES-62000</s:sku>
+      <s:grams>297</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11006105100</id>
+    <published>2017-06-13T10:20:16-04:00</published>
+    <updated>2017-06-13T10:20:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/e-shave-razor-brush-stand-nickel-sz-t"/>
+    <title>eShave Razor &amp; Brush Stand Nickel SZ:T</title>
+    <s:type>Razors &amp; Blades - Razor Stands</s:type>
+    <s:vendor>eShave</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/T_Stand_Nickel_Zoom.jpg?v=1497365555"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>eShave<br>
+        <strong>Type: </strong>Razors &amp; Blades - Razor Stands<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11006105100</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>ES-60000</s:sku>
+      <s:grams>286</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11006104524</id>
+    <published>2017-06-13T10:20:14-04:00</published>
+    <updated>2017-06-13T10:20:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/e-shave-pre-shave-oil-60g-white-tea"/>
+    <title>eShave Pre-Shave Oil 60g - White Tea</title>
+    <s:type>Shaving Preparations - Pre-Shave Oil</s:type>
+    <s:vendor>eShave</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/pre_shave_oil_WT_paraben_free_2016.jpg?v=1497365355"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>eShave<br>
+        <strong>Type: </strong>Shaving Preparations - Pre-Shave Oil<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11006104524</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>ES-32009</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+</feed>

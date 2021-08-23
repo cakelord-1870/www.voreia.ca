@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.voreia.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.voreia.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.voreia.ca/collections/facial-scrubs-cleansers.atom"/>
+  <title>Voreia Industries Inc. </title>
+  <updated>2017-06-13T10:20:23-04:00</updated>
+  <author>
+    <name>Voreia Industries Inc. </name>
+  </author>
+  <entry>
+    <id>https://www.voreia.ca/products/11006107276</id>
+    <published>2017-06-13T10:20:23-04:00</published>
+    <updated>2017-06-13T10:20:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/e-shave-face-scrub-50g-white-tea"/>
+    <title>eShave Face Scrub 50g - White Tea</title>
+    <s:type>Skin Care - Facial Scrubs</s:type>
+    <s:vendor>eShave</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/face_scrub.jpg?v=1497364976"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>eShave<br>
+        <strong>Type: </strong>Skin Care - Facial Scrubs<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11006107276</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>ES-94109</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9769572300</id>
+    <published>2017-02-23T19:39:27-05:00</published>
+    <updated>2017-02-23T19:39:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/s-f-hydrator-50ml"/>
+    <title>S&amp;F - Hydrator - 50ml</title>
+    <s:type>Skin Care - Skin Toners</s:type>
+    <s:vendor>Scaramouche &amp; Fandango</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/SF-HY100MT_hydrator-50ml_F.jpg?v=1487899702"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Scaramouche &amp; Fandango<br>
+        <strong>Type: </strong>Skin Care - Skin Toners<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769572300</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>SF-HY50MT</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9769572236</id>
+    <published>2017-02-23T19:39:27-05:00</published>
+    <updated>2017-02-23T19:39:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/s-f-hydrator-100ml"/>
+    <title>S&amp;F - Hydrator - 100ml</title>
+    <s:type>Skin Care - Skin Toners</s:type>
+    <s:vendor>Scaramouche &amp; Fandango</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/SF-HY50MT_hydrator-100ml_F.jpg?v=1487898975"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Scaramouche &amp; Fandango<br>
+        <strong>Type: </strong>Skin Care - Skin Toners<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769572236</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>SF-HY100MT</s:sku>
+      <s:grams>117</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9769571852</id>
+    <published>2017-02-23T19:39:25-05:00</published>
+    <updated>2017-02-23T19:39:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/s-f-face-scrub-100ml"/>
+    <title>S&amp;F - Face Scrub - 100ml</title>
+    <s:type>Skin Care - Facial Scrubs</s:type>
+    <s:vendor>Scaramouche &amp; Fandango</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/SF-FS100MT_facescrub-100ml_F.jpg?v=1487898885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Scaramouche &amp; Fandango<br>
+        <strong>Type: </strong>Skin Care - Facial Scrubs<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769571852</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>SF-FS100MT</s:sku>
+      <s:grams>117</s:grams>
+    </s:variant>
+  </entry>
+</feed>

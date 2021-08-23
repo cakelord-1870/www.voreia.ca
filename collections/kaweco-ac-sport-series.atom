@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.voreia.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.voreia.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.voreia.ca/collections/kaweco-ac-sport-series.atom"/>
+  <title>Voreia Industries Inc. </title>
+  <updated>2017-06-13T23:47:18-04:00</updated>
+  <author>
+    <name>Voreia Industries Inc. </name>
+  </author>
+  <entry>
+    <id>https://www.voreia.ca/products/11012324620</id>
+    <published>2017-06-13T23:47:18-04:00</published>
+    <updated>2017-06-13T23:47:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/kaweco-ac-sport-pp"/>
+    <title>Kaweco AC Sport - Push Pencils</title>
+    <s:type>Pencil - Pencil, 0.7Mm</s:type>
+    <s:vendor>Kaweco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/kaweco_ac_bla_mp_web_white.jpg?v=1497412946"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kaweco<br>
+        <strong>Type: </strong>Pencil - Pencil, 0.7Mm<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><center></center></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC Sport</s:tag>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11012324620</id>
+      <title>Black</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000141</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11012324620</id>
+      <title>Orange</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10001211</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11012324620</id>
+      <title>Green</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10001218</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11012324620</id>
+      <title>Red</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000354</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11012324492</id>
+    <published>2017-06-13T23:47:18-04:00</published>
+    <updated>2017-06-13T23:47:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/kaweco-ac-sport-bp"/>
+    <title>Kaweco AC Sport - Ball Pens</title>
+    <s:type>Pen, Non-Fountain - Pen, Ballpoint</s:type>
+    <s:vendor>Kaweco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/kaweco_ac_bla_bp_web_white.jpg?v=1497412766"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kaweco<br>
+        <strong>Type: </strong>Pen, Non-Fountain - Pen, Ballpoint<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><center></center></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC Sport</s:tag>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11012324492</id>
+      <title>Black</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000149</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11012324492</id>
+      <title>Orange</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10001210</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11012324492</id>
+      <title>Green</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10001217</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11012324492</id>
+      <title>Red</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000355</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11012324108</id>
+    <published>2017-06-13T23:47:16-04:00</published>
+    <updated>2017-06-13T23:47:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/kaweco-ac-sport-fp"/>
+    <title>Kaweco AC Sport - Fountain Pens</title>
+    <s:type>Pen, Fountain</s:type>
+    <s:vendor>Kaweco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/kaweco_ac_bla_fp_web_white.jpg?v=1497412139"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kaweco<br>
+        <strong>Type: </strong>Pen, Fountain<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><center></center></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC Sport</s:tag>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11012324108</id>
+      <title>Black / Extra Fine</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000473</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11012324108</id>
+      <title>Black / Fine</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000146</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11012324108</id>
+      <title>Black / Medium</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000145</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11012324108</id>
+      <title>Black / Broad</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000147</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11012324108</id>
+      <title>Black / Double Broad</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000474</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11012324108</id>
+      <title>Orange / Extra Fine</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10001205</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11012324108</id>
+      <title>Orange / Fine</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10001206</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11012324108</id>
+      <title>Orange / Medium</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10001207</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11012324108</id>
+      <title>Orange / Broad</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10001208</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11012324108</id>
+      <title>Orange / Double Broad</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10001209</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11012324108</id>
+      <title>Green / Extra Fine</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10001212</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11012324108</id>
+      <title>Green / Fine</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10001213</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11012324108</id>
+      <title>Green / Medium</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10001214</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11012324108</id>
+      <title>Green / Broad</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10001215</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11012324108</id>
+      <title>Green / Double Broad</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10001216</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11012324108</id>
+      <title>Red / Extra Fine</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000469</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11012324108</id>
+      <title>Red / Fine</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000357</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11012324108</id>
+      <title>Red / Medium</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000358</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11012324108</id>
+      <title>Red / Broad</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000356</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11012324108</id>
+      <title>Red / Double Broad</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000470</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+</feed>

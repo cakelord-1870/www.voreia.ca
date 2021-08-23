@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.voreia.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.voreia.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.voreia.ca/collections/kaweco-special.atom"/>
+  <title>Voreia Industries Inc. </title>
+  <updated>2017-06-18T02:08:14-04:00</updated>
+  <author>
+    <name>Voreia Industries Inc. </name>
+  </author>
+  <entry>
+    <id>https://www.voreia.ca/products/11044204748</id>
+    <published>2017-06-18T02:08:14-04:00</published>
+    <updated>2017-06-18T02:08:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/kaweco-special-bp"/>
+    <title>Kaweco Special - Ballpen</title>
+    <s:type>Pen, Non-Fountain - Pen, Ballpoint</s:type>
+    <s:vendor>Kaweco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kaweco<br>
+        <strong>Type: </strong>Pen, Non-Fountain - Pen, Ballpoint<br>
+        <strong>Price: </strong>
+            28.00 - 30.00
+            <a href="https://www.voreia.ca/products/kaweco-special-bp">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><center></center></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Special</s:tag>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11044204748</id>
+      <title>Aluminum Black / Regular - 140mm</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku>KW-10000531</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11044204748</id>
+      <title>Aluminum Black / Mini - 105mm</title>
+      <s:price currency="CAD">29.00</s:price>
+      <s:sku>KW-10000532</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11044204748</id>
+      <title>Brass / Regular - 140mm</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KW-10001395</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11044204684</id>
+    <published>2017-06-18T02:08:14-04:00</published>
+    <updated>2017-06-18T02:08:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/kaweco-special-two"/>
+    <title>Kaweco Special 2.0mm - Mechanical Pencil</title>
+    <s:type>Pencil - Pencil, 2.0Mm</s:type>
+    <s:vendor>Kaweco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kaweco<br>
+        <strong>Type: </strong>Pencil - Pencil, 2.0Mm<br>
+        <strong>Price: </strong>
+            25.00 - 27.00
+            <a href="https://www.voreia.ca/products/kaweco-special-two">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><center></center></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Special</s:tag>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11044204684</id>
+      <title>Aluminum Black / Regular - 140mm</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>KW-10000184</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11044204684</id>
+      <title>Aluminum Black / Mini - 105mm</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku>KW-10000536</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11044204684</id>
+      <title>Brass / Regular - 140mm</title>
+      <s:price currency="CAD">27.00</s:price>
+      <s:sku>KW-10001389</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11044204620</id>
+    <published>2017-06-18T02:08:14-04:00</published>
+    <updated>2017-06-18T02:08:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/kaweco-special-pointnine"/>
+    <title>Kaweco Special 0.9mm - Mechanical Pencil</title>
+    <s:type>Pencil - Pencil, 0.9Mm</s:type>
+    <s:vendor>Kaweco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kaweco<br>
+        <strong>Type: </strong>Pencil - Pencil, 0.9Mm<br>
+        <strong>Price: </strong>
+            22.00 - 24.00
+            <a href="https://www.voreia.ca/products/kaweco-special-pointnine">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><center></center></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Special</s:tag>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11044204620</id>
+      <title>Aluminum Black / Regular - 140mm</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>KW-10000183</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11044204620</id>
+      <title>Aluminum Black / Mini - 105mm</title>
+      <s:price currency="CAD">23.00</s:price>
+      <s:sku>KW-10000535</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11044204620</id>
+      <title>Brass / Regular - 140mm</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>KW-10001388</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11044204556</id>
+    <published>2017-06-18T02:08:13-04:00</published>
+    <updated>2017-06-18T02:08:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/kaweco-special-pointfive"/>
+    <title>Kaweco Special 0.5mm - Mechanical Pencil</title>
+    <s:type>Pencil - Pencil, 0.5Mm</s:type>
+    <s:vendor>Kaweco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kaweco<br>
+        <strong>Type: </strong>Pencil - Pencil, 0.5Mm<br>
+        <strong>Price: </strong>
+            19.00 - 21.00
+            <a href="https://www.voreia.ca/products/kaweco-special-pointfive">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><center></center></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Special</s:tag>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11044204556</id>
+      <title>Aluminum Black / Regular - 140mm</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku>KW-10000181</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11044204556</id>
+      <title>Aluminum Black / Mini - 105mm</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>KW-10000533</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11044204556</id>
+      <title>Brass / Regular - 140mm</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku>KW-10001386</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11044204428</id>
+    <published>2017-06-18T02:08:13-04:00</published>
+    <updated>2017-06-18T02:08:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/kaweco-special-pointseven"/>
+    <title>Kaweco Special 0.7mm - Mechanical Pencil</title>
+    <s:type>Pencil - Pencil, 0.7Mm</s:type>
+    <s:vendor>Kaweco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kaweco<br>
+        <strong>Type: </strong>Pencil - Pencil, 0.7Mm<br>
+        <strong>Price: </strong>
+            16.00 - 18.00
+            <a href="https://www.voreia.ca/products/kaweco-special-pointseven">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><center></center></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Special</s:tag>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11044204428</id>
+      <title>Aluminum Black / Regular - 140mm</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>KW-10000182</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11044204428</id>
+      <title>Aluminum Black / Mini - 105mm</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku>KW-10000534</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11044204428</id>
+      <title>Brass / Regular - 140mm</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>KW-10001387</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11044204236</id>
+    <published>2017-06-18T02:08:12-04:00</published>
+    <updated>2017-06-18T02:08:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/kaweco-special-fp"/>
+    <title>Kaweco Special - Fountain Pens</title>
+    <s:type>Pen, Fountain</s:type>
+    <s:vendor>Kaweco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kaweco<br>
+        <strong>Type: </strong>Pen, Fountain<br>
+        <strong>Price: </strong>
+            6.00 - 15.00
+            <a href="https://www.voreia.ca/products/kaweco-special-fp">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><center></center></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Special</s:tag>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11044204236</id>
+      <title>Aluminum Black / Broad</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>KW-10000526</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11044204236</id>
+      <title>Aluminum Black / Double Broad</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku>KW-10000527</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11044204236</id>
+      <title>Aluminum Black / Medium</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>KW-10000528</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11044204236</id>
+      <title>Aluminum Black / Fine</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>KW-10000529</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11044204236</id>
+      <title>Aluminum Black / Extra Fine</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>KW-10000530</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11044204236</id>
+      <title>Brass / Extra Fine</title>
+      <s:price currency="CAD">11.00</s:price>
+      <s:sku>KW-10001390</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11044204236</id>
+      <title>Brass / Fine</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>KW-10001391</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11044204236</id>
+      <title>Brass / Medium</title>
+      <s:price currency="CAD">13.00</s:price>
+      <s:sku>KW-10001392</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11044204236</id>
+      <title>Brass / Broad</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>KW-10001393</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11044204236</id>
+      <title>Brass / Double Broad</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>KW-10001394</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+  </entry>
+</feed>

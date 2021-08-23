@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.voreia.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.voreia.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.voreia.ca/collections/daimon-barber.atom"/>
+  <title>Voreia Industries Inc. </title>
+  <updated>2017-02-23T18:55:00-05:00</updated>
+  <author>
+    <name>Voreia Industries Inc. </name>
+  </author>
+  <entry>
+    <id>https://www.voreia.ca/products/9769362252</id>
+    <published>2017-02-23T18:55:00-05:00</published>
+    <updated>2017-02-23T18:55:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/daimon-barber-shave-cream-100ml"/>
+    <title>Daimon Barber Shave Cream 100ml</title>
+    <s:type>Shaving Preparations - Shaving Cream, Standard</s:type>
+    <s:vendor>Daimon Barber</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/DB-SC100-01_ShaveCream_40382_S2.jpg?v=1487896390"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Daimon Barber<br>
+        <strong>Type: </strong>Shaving Preparations - Shaving Cream, Standard<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This shave cream contains Filagrin that keeps the skin naturally moisturized while providing a close shave. Formulated with honeybee, rosehip, black seed, lime and apple seed camellia oils and aloe provides both moisture and healing for minor cuts caused by shaving. This product is free from parabens and other nasty chemicals.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769362252</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>DB-SC100-01</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9769362188</id>
+    <published>2017-02-23T18:55:00-05:00</published>
+    <updated>2017-02-23T18:55:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/daimon-barber-post-shave-balm-100ml"/>
+    <title>Daimon Barber Post Shave Balm 100ml</title>
+    <s:type>Shaving Preparations - Aftershave Gel/Balm/Cream</s:type>
+    <s:vendor>Daimon Barber</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/DB-PSB100-01_PostShaveBalm_40412_S2.jpg?v=1487896498"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Daimon Barber<br>
+        <strong>Type: </strong>Shaving Preparations - Aftershave Gel/Balm/Cream<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This post shave balm with Myramaze and Menthol, cools, soothes and comfort freshly shaven skin. Uniquely formulated with rosehip, apple seed, lime seed and camellia seed oils, provides antioxidants  and vitamins to revive skin at the cellular level. This product is free from parabens and other nasty chemicals.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769362188</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>DB-PSB100-01</s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9769362060</id>
+    <published>2017-02-23T18:55:00-05:00</published>
+    <updated>2017-02-23T18:55:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/daimon-barber-pomade-sample-box-10g-x-5"/>
+    <title>Daimon Barber Pomade Sample Box 10g x 5</title>
+    <s:type>Styling Products - Hair Pomade</s:type>
+    <s:vendor>Daimon Barber</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/DB-PSsample01_PomadeSampleBox_F.jpg?v=1487896546"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Daimon Barber<br>
+        <strong>Type: </strong>Styling Products - Hair Pomade<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Sample all 5 pomades in travel sizes of 10 gm. Includes </span><strong>Original</strong><span> Pomade (Light - Medium Hold / Medium Shine), </span><strong>Classic</strong><span> Pomade (Medium Hold / Platinum Shine), </span><strong>Remedy</strong><span> Wax (Medium Hold / Medium Shine), </span><strong>Texture</strong><span> Clay (Strong Hold / Matte Finish) and </span><strong>Fixing</strong><span> Pomade (Strong Hold, Medium Shine).</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769362060</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>DB-PSAMPLE01</s:sku>
+      <s:grams>115</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9769361932</id>
+    <published>2017-02-23T18:55:00-05:00</published>
+    <updated>2017-02-23T18:55:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/daimon-barber-pomade-comb-gift-box-100g"/>
+    <title>Daimon Barber Pomade/Comb Gift Box 100g</title>
+    <s:type>Styling Products - Hair Pomade</s:type>
+    <s:vendor>Daimon Barber</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/aaa_grande_c8dc4320-c594-40df-aaf4-f4f9b4d7cb37.jpg?v=1497367505"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Daimon Barber<br>
+        <strong>Type: </strong>Styling Products - Hair Pomade<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Gift sets includes all 5 pomades in 100 gm format along with double toothed cow horn comb. Includes:</span></p>
+<ul>
+<li>
+<strong>Original</strong> Pomade (Light - Medium Hold / Medium Shine)</li>
+<li>
+<strong>Classic</strong> Pomade (Medium Hold / Platinum Shine) </li>
+<li>
+<strong>Remedy</strong> Wax (Medium Hold / Medium Shine)</li>
+<li>
+<strong>Texture</strong> Clay (Strong Hold / Matte Finish) </li>
+<li>
+<strong>Fixing</strong> Pomade (Strong Hold, Medium Shine)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769361932</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>DB-PGIFTBOX</s:sku>
+      <s:grams>1680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9769361804</id>
+    <published>2017-02-23T18:55:00-05:00</published>
+    <updated>2017-02-23T18:55:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/daimon-barber-no-5-gel-pomade-100g"/>
+    <title>Daimon Barber No.5 Gel Pomade 100g</title>
+    <s:type>Styling Products - Hair Gel</s:type>
+    <s:vendor>Daimon Barber</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/DB-041624_FixingPomade_Open.jpg?v=1489430735"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Daimon Barber<br>
+        <strong>Type: </strong>Styling Products - Hair Gel<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Fixing Pomade (formerly No.5 Pomade) is a water based hair pomade formulated with hydrogenated waxes and oil, providing a strong hold with a moderate shine. This pomade has a spicy scent from Oudh and Egyptian Mallow. For all hair types. This pomade is free from parabens and other nasty chemicals.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769361804</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>DB-P5100</s:sku>
+      <s:grams>245</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9769361484</id>
+    <published>2017-02-23T18:55:00-05:00</published>
+    <updated>2017-02-23T18:55:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/daimon-barber-no-4-clay-pomade-100g"/>
+    <title>Daimon Barber No.4 Clay Pomade 100g</title>
+    <s:type>Styling Products - Hair Clay</s:type>
+    <s:vendor>Daimon Barber</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/DB-041617_TextureClay_Open.jpg?v=1489430635"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Daimon Barber<br>
+        <strong>Type: </strong>Styling Products - Hair Clay<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Texture Clay (formerly No.4 Clay Pomade) is water soluble providing a strong hold with a matte finish for a clean appearance.  This clay washed out easily and is for all hair types. This water based formula is scented with fig and frankincense for conditioned and healthy feeling hair. This pomade is free from parabens and other nasty chemicals.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769361484</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>DB-P4100</s:sku>
+      <s:grams>245</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9769361356</id>
+    <published>2017-02-23T18:55:00-05:00</published>
+    <updated>2017-02-23T18:55:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/daimon-barber-no-3-wax-pomade-100g"/>
+    <title>Daimon Barber No.3 Wax Pomade 100g</title>
+    <s:type>Styling Products - Hair Wax</s:type>
+    <s:vendor>Daimon Barber</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/DB-041600_RemedyWax_Open.jpg?v=1489430525"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Daimon Barber<br>
+        <strong>Type: </strong>Styling Products - Hair Wax<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Our Remedy Wax (formerly No.3 Wax Pomade) is formulated natural plant wax to add texture and control. This wax also hydrates the hair hydration with moisture and deeply penetrates the hair to help repair damaged hair. Enjoy the Cucumber and Bergamot scent in a 100% vegan formula</span><span>.  For all hair types particularly dry, thick or frizzy hair. This pomade is free from parabens and other nasty chemicals. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769361356</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>DB-P3100</s:sku>
+      <s:grams>245</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9769361164</id>
+    <published>2017-02-23T18:55:00-05:00</published>
+    <updated>2017-02-23T18:55:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/daimon-barber-no-2-classic-pomade-100g"/>
+    <title>Daimon Barber No.2 Classic Pomade 100g</title>
+    <s:type>Styling Products - Hair Pomade</s:type>
+    <s:vendor>Daimon Barber</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/DB-041594_ClassicPomade_Open.jpg?v=1489430382"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Daimon Barber<br>
+        <strong>Type: </strong>Styling Products - Hair Pomade<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The Classic Pomade (formerly No.2 Hair Pomade) keep the hair strong and healthy the hair and scalp.  This pomade is formulated with avocado and coconut oils and uses beeswax and micro wax for an effective and malleable hold for all hair types. This pomade is free from parabens and other other nasty chemicals.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769361164</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>DB-P2100</s:sku>
+      <s:grams>245</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9769360972</id>
+    <published>2017-02-23T18:55:00-05:00</published>
+    <updated>2017-02-23T18:55:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/daimon-barber-no-1-hair-pomade-100g"/>
+    <title>Daimon Barber No.1 Hair Pomade 100g</title>
+    <s:type>Styling Products - Hair Pomade</s:type>
+    <s:vendor>Daimon Barber</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/DB-041587_OriginalPomade_Open.jpg?v=1489430172"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Daimon Barber<br>
+        <strong>Type: </strong>Styling Products - Hair Pomade<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Original Pomade (formerly No.1 Hair Pomade) nourish and protects the hair and scalp.  Uniquely formulated with raspberry seed oil moisturizes the hair, providing soft and conditioned texture. This is a water based formula so easily washes and supports all hair types. This pomade is free from parabens and other nasty chemicals.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769360972</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>DB-P1100</s:sku>
+      <s:grams>245</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9769360908</id>
+    <published>2017-02-23T18:55:00-05:00</published>
+    <updated>2017-02-23T18:55:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/daimon-barber-face-wash-100ml"/>
+    <title>Daimon Barber Face Wash 100ml</title>
+    <s:type>Soap, Toliet Use - Liquid Soap, Bath</s:type>
+    <s:vendor>Daimon Barber</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/DB-FW100-01_FaceWash_40320_S2.jpg?v=1487894909"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Daimon Barber<br>
+        <strong>Type: </strong>Soap, Toliet Use - Liquid Soap, Bath<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This face wash gently removes dirt and oil from the skin. Propolis has anti-oxidant and anti-bacterial properties and enhances skin renewal. Glycoderm and Honeybee Moisture Complex support moisture retention. This product is free from parabens and other nasty chemicals.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769360908</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>DB-FW100-01</s:sku>
+      <s:grams>135</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9769360844</id>
+    <published>2017-02-23T18:55:00-05:00</published>
+    <updated>2017-02-23T18:55:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/daimon-barber-face-cream-45ml"/>
+    <title>Daimon Barber Face Cream 45ml</title>
+    <s:type>Skin Care - Hand &amp; Body Lotions</s:type>
+    <s:vendor>Daimon Barber</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/DB-FCR45-01_FaceCream_40504_S2.jpg?v=1487894830"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Daimon Barber<br>
+        <strong>Type: </strong>Skin Care - Hand &amp; Body Lotions<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This face cream will re hydrate and revitalize your skin leaving skin feeling rejuvenated and invigorated. Contains Myramaze which with regular use regenerates and strengthens skin for a noticeably improved texture will noticeably improve. <span>Enhanced formulation with unique oils to provides lasting moisture without an oily residue. This product is free from parabens and other nasty chemicals.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769360844</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>DB-FCR45-01</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9769360716</id>
+    <published>2017-02-23T18:55:00-05:00</published>
+    <updated>2017-02-23T18:55:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/daimon-barber-facial-concentrate-45ml"/>
+    <title>Daimon Barber Facial Concentrate 45ml</title>
+    <s:type>Skin Care - Hand &amp; Body Lotions</s:type>
+    <s:vendor>Daimon Barber</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/DB-FC45-01_FacialConcentrate_40474_S2.jpg?v=1487895060"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Daimon Barber<br>
+        <strong>Type: </strong>Skin Care - Hand &amp; Body Lotions<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This face oil protects the skin's natural barrier from the harmful effects of UV and with Filagrinol moisturizes and repairs skin. This face oil can also be used as an effective pre-shave oil. This product is free from parabens and other nasty chemicals.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769360716</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>DB-FC45-01</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9769360652</id>
+    <published>2017-02-23T18:55:00-05:00</published>
+    <updated>2017-02-23T18:55:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/daimon-barber-eye-cream-15ml"/>
+    <title>Daimon Barber Eye Cream 15ml</title>
+    <s:type>Skin Care - Eye Creams</s:type>
+    <s:vendor>Daimon Barber</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/DB-ECR15-01_EyeCream_40535_S2.jpg?v=1487894706"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Daimon Barber<br>
+        <strong>Type: </strong>Skin Care - Eye Creams<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This contouring cream with "Beautifeye" activeve lifts and firms the look of skin around the eyes. This cream reduces capillary leakages and accumulation of pigments responsible for uneven coloration and a tired appearance. Enhanced formulation with unique oils to provides lasting moisture without an oily residue. This product is free from parabens and other nasty chemicals.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769360652</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>DB-ECR15-01</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9769360588</id>
+    <published>2017-02-23T18:55:00-05:00</published>
+    <updated>2017-02-23T18:55:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/daimon-barber-exfoliating-cleanser-100ml"/>
+    <title>Daimon Barber Exfoliating Cleanser 100ml</title>
+    <s:type>Soap, Toliet Use - Liquid Soap, Bath</s:type>
+    <s:vendor>Daimon Barber</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/DB-EC100-01_ExfoliatingCleanser_40351_S2.jpg?v=1487894586"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Daimon Barber<br>
+        <strong>Type: </strong>Soap, Toliet Use - Liquid Soap, Bath<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This cleanser contains small pumice particles that rapidly resurface, polish and brighten the skin, lifting the facial hair before shaving and helping to prevent ingrowing hairs and blemishes. Honeybee Moisture Complex moisturizes the skin, and the Propolis antioxidant protect the skin. After use, the skin will feel smooth and remarkably cleansed. This product is free from parabens and other nasty chemicals.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769360588</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>DB-EC100-01</s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9769360396</id>
+    <published>2017-02-23T18:55:00-05:00</published>
+    <updated>2017-02-23T18:55:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/daimon-barber-double-tooth-horn-comb"/>
+    <title>Daimon Barber Double Tooth Horn Comb</title>
+    <s:type>Combs - Standard Combs</s:type>
+    <s:vendor>Daimon Barber</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/DB-C1_Double2ToothHornComb_F2.jpg?v=1488404917"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Daimon Barber<br>
+        <strong>Type: </strong>Combs - Standard Combs<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This double tooth comb has been artfully fashioned by hand from the finest natural cow horn. This will natural material provides random colour and pattern once polished.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769360396</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>DB-C1</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9769360332</id>
+    <published>2017-02-23T18:55:00-05:00</published>
+    <updated>2017-02-23T18:55:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/daimon-barber-beard-serum-100ml"/>
+    <title>Daimon Barber Beard Serum 100ml</title>
+    <s:type>Styling Products - Beard Oil &amp; Conditioner</s:type>
+    <s:vendor>Daimon Barber</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/DB-BSS100-01_BeardStubbleSerum_40443_S2.jpg?v=1487894429"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Daimon Barber<br>
+        <strong>Type: </strong>Styling Products - Beard Oil &amp; Conditioner<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This conditioner softens tough stubble, leaving a soft feeling beard. With avocado oil and aloe vera keeps both facial hair and the skin beneath feeling moisturized. Kahai oil with the antioxidant vitamin E, protects and replenish moisture levels in the hair. This conditioner has a unique fragrance of Oudh and Egyptian Mallow. This product is free from parabens and other nasty chemicals. Convenient 100 ml size.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769360332</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>DB-BSS100-01</s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9769360204</id>
+    <published>2017-02-23T18:55:00-05:00</published>
+    <updated>2017-02-23T18:55:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/daimon-barber-pomade-gift-box-only"/>
+    <title>Daimon Barber Pomade Gift Box Only</title>
+    <s:type>Gift Packs &amp; Sets - Multipiece Packs</s:type>
+    <s:vendor>Daimon Barber</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Daimon Barber<br>
+        <strong>Type: </strong>Gift Packs &amp; Sets - Multipiece Packs<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769360204</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>DB-BL85</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+</feed>

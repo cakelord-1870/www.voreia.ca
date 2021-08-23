@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.voreia.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.voreia.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.voreia.ca/collections/kaweco-dia2.atom"/>
+  <title>Voreia Industries Inc. </title>
+  <updated>2017-06-15T23:47:58-04:00</updated>
+  <author>
+    <name>Voreia Industries Inc. </name>
+  </author>
+  <entry>
+    <id>https://www.voreia.ca/products/11028541900</id>
+    <published>2017-06-15T23:47:58-04:00</published>
+    <updated>2017-06-15T23:47:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/kaweco-classic-dia2-km"/>
+    <title>Kaweco Dia2 - Kawecomat multifunction</title>
+    <s:type>Pen, Multifunction</s:type>
+    <s:vendor>Kaweco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/kaweco_dia2_chr_mf_web_white.jpg?v=1497585330"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kaweco<br>
+        <strong>Type: </strong>Pen, Multifunction<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><center></center></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DIA2</s:tag>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11028541900</id>
+      <title>Chrome</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000133</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11028541900</id>
+      <title>Gold</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000134</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11028541836</id>
+    <published>2017-06-15T23:47:58-04:00</published>
+    <updated>2017-06-15T23:47:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/kaweco-classic-dia2-mp"/>
+    <title>Kaweco Dia2 - Mechanical Pencil</title>
+    <s:type>Pencil - Pencil, 0.7Mm</s:type>
+    <s:vendor>Kaweco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/kaweco_dia2_chr_mp_web_white.jpg?v=1497585441"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kaweco<br>
+        <strong>Type: </strong>Pencil - Pencil, 0.7Mm<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><center></center></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DIA2</s:tag>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11028541836</id>
+      <title>Chrome</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000552</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11028541836</id>
+      <title>Gold</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000553</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11028541772</id>
+    <published>2017-06-15T23:47:58-04:00</published>
+    <updated>2017-06-15T23:47:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/kaweco-classic-dia2-rb"/>
+    <title>Kaweco Dia2 - Roller Ball</title>
+    <s:type>Pen, Non-Fountain - Pen, Rollerball</s:type>
+    <s:vendor>Kaweco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/kaweco_dia2_chr_rb_web_white.jpg?v=1497585459"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kaweco<br>
+        <strong>Type: </strong>Pen, Non-Fountain - Pen, Rollerball<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><center></center></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DIA2</s:tag>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11028541772</id>
+      <title>Chrome</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000566</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11028541772</id>
+      <title>Gold</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000567</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11028541580</id>
+    <published>2017-06-15T23:47:57-04:00</published>
+    <updated>2017-06-15T23:47:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/kaweco-classic-dia2-bp"/>
+    <title>Kaweco Dia2 - Ball Pens</title>
+    <s:type>Pen, Non-Fountain - Pen, Ballpoint</s:type>
+    <s:vendor>Kaweco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/kaweco_dia2_gold_bp_web_white.jpg?v=1497585264"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kaweco<br>
+        <strong>Type: </strong>Pen, Non-Fountain - Pen, Ballpoint<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><center></center></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DIA2</s:tag>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11028541580</id>
+      <title>Chrome</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000564</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11028541580</id>
+      <title>Gold</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000565</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11028541388</id>
+    <published>2017-06-15T23:47:56-04:00</published>
+    <updated>2017-06-15T23:47:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/kaweco-classic-dia2-fp"/>
+    <title>Kaweco Dia2 - Fountain Pens</title>
+    <s:type>Pen, Fountain</s:type>
+    <s:vendor>Kaweco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/kaweco_dia2_chr_fp_web_white.jpg?v=1497585224"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kaweco<br>
+        <strong>Type: </strong>Pen, Fountain<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><center></center></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DIA2</s:tag>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11028541388</id>
+      <title>Chrome / Medium</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000558</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11028541388</id>
+      <title>Chrome / Fine</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000557</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11028541388</id>
+      <title>Chrome / Extra Fine</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000556</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11028541388</id>
+      <title>Chrome / Double Broad</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000555</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11028541388</id>
+      <title>Chrome / Broad</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000554</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11028541388</id>
+      <title>Gold / Medium</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000563</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11028541388</id>
+      <title>Gold / Fine</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000562</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11028541388</id>
+      <title>Gold / Extra Fine</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000561</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11028541388</id>
+      <title>Gold / Double Broad</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000568</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11028541388</id>
+      <title>Gold / Broad</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000559</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+  </entry>
+</feed>

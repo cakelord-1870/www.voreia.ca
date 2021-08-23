@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.voreia.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.voreia.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.voreia.ca/collections/kaweco-al-sport.atom"/>
+  <title>Voreia Industries Inc. </title>
+  <updated>2017-06-16T09:39:39-04:00</updated>
+  <author>
+    <name>Voreia Industries Inc. </name>
+  </author>
+  <entry>
+    <id>https://www.voreia.ca/products/11032342028</id>
+    <published>2017-06-16T09:39:39-04:00</published>
+    <updated>2017-06-16T09:39:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/kaweco-alsportfp-bpt"/>
+    <title>Kaweco AL Sport - Ball Pen Touch</title>
+    <s:type>Pen, Non-Fountain - Pen, Ballpoint</s:type>
+    <s:vendor>Kaweco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/kaweco_al-sport-touch_bla-2_web_white.jpg?v=1497620486"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kaweco<br>
+        <strong>Type: </strong>Pen, Non-Fountain - Pen, Ballpoint<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><center></center></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ALSport</s:tag>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032342028</id>
+      <title>Black</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000479</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032342028</id>
+      <title>Silver</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000478</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11032341900</id>
+    <published>2017-06-16T09:39:39-04:00</published>
+    <updated>2017-06-16T09:39:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/kaweco-alsportfp-mp"/>
+    <title>Kaweco AL Sport - Mechanical Pencil</title>
+    <s:type>Pencil - Pencil, 0.7Mm</s:type>
+    <s:vendor>Kaweco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/kaweco_al_sport_ant_pp_web_white.jpg?v=1497621257"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kaweco<br>
+        <strong>Type: </strong>Pencil - Pencil, 0.7Mm<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><center></center></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ALSport</s:tag>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341900</id>
+      <title>Grey</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000102</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341900</id>
+      <title>Black</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000103</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341900</id>
+      <title>Silver</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000101</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341900</id>
+      <title>Raw</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000633</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341900</id>
+      <title>Light Blue</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10001204</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11032341836</id>
+    <published>2017-06-16T09:39:38-04:00</published>
+    <updated>2017-06-16T09:39:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/kaweco-alsportfp-rb"/>
+    <title>Kaweco AL Sport - Roller Ball</title>
+    <s:type>Pen, Non-Fountain - Pen, Rollerball</s:type>
+    <s:vendor>Kaweco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/kaweco_al_sport_ant_gr_web_white.jpg?v=1497621305"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kaweco<br>
+        <strong>Type: </strong>Pen, Non-Fountain - Pen, Rollerball<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><center></center></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ALSport</s:tag>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341836</id>
+      <title>Grey</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000715</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341836</id>
+      <title>Black</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000713</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341836</id>
+      <title>Stonewashed Black</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000717</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341836</id>
+      <title>Stonewashed Blue</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000718</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341836</id>
+      <title>Silver</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000716</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341836</id>
+      <title>Raw</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000665</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341836</id>
+      <title>Light Blue</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10001202</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11032341644</id>
+    <published>2017-06-16T09:39:38-04:00</published>
+    <updated>2017-06-16T09:39:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/kaweco-alsportfp-bp"/>
+    <title>Kaweco AL Sport - Ball Pens</title>
+    <s:type>Pen, Non-Fountain - Pen, Ballpoint</s:type>
+    <s:vendor>Kaweco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/kaweco_al_sport_ant_bp_web_white.jpg?v=1497620684"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kaweco<br>
+        <strong>Type: </strong>Pen, Non-Fountain - Pen, Ballpoint<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><center></center></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ALSport</s:tag>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341644</id>
+      <title>Grey</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000099</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341644</id>
+      <title>Black</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000100</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341644</id>
+      <title>Stonewashed Black</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000731</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341644</id>
+      <title>Stonewashed Blue</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000730</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341644</id>
+      <title>Silver</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000098</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341644</id>
+      <title>Raw</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000632</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341644</id>
+      <title>Light Blue</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10001203</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11032341196</id>
+    <published>2017-06-16T09:39:35-04:00</published>
+    <updated>2017-06-16T09:39:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/kaweco-alsportfp-fp"/>
+    <title>Kaweco AL Sport - Fountain Pens</title>
+    <s:type>Pen, Fountain</s:type>
+    <s:vendor>Kaweco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/kaweco_al_sport_ant_fp_1_web_white.jpg?v=1497620942"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kaweco<br>
+        <strong>Type: </strong>Pen, Fountain<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><center></center></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ALSport</s:tag>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341196</id>
+      <title>Grey / Medium</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000092</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341196</id>
+      <title>Grey / Fine</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000094</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341196</id>
+      <title>Grey / Extra Fine</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000427</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341196</id>
+      <title>Grey / Double Broad</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000428</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341196</id>
+      <title>Grey / Broad</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000093</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341196</id>
+      <title>Black / Medium</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000095</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341196</id>
+      <title>Black / Fine</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000097</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341196</id>
+      <title>Black / Extra Fine</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000429</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341196</id>
+      <title>Black / Double Broad</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000430</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341196</id>
+      <title>Black / Broad</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000096</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341196</id>
+      <title>Stonewashed Black / Extra Fine</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000739</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341196</id>
+      <title>Stonewashed Black / Fine</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000738</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341196</id>
+      <title>Stonewashed Black / Medium</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000737</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341196</id>
+      <title>Stonewashed Black / Broad</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000741</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341196</id>
+      <title>Stonewashed Black / Double Broad</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000740</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341196</id>
+      <title>Stonewashed Blue / Extra Fine</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000736</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341196</id>
+      <title>Stonewashed Blue / Fine</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000735</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341196</id>
+      <title>Stonewashed Blue / Medium</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000734</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341196</id>
+      <title>Stonewashed Blue / Broad</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000732</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341196</id>
+      <title>Stonewashed Blue / Double Broad</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000733</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341196</id>
+      <title>Silver / Extra Fine</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000425</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341196</id>
+      <title>Silver / Fine</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000091</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341196</id>
+      <title>Silver / Medium</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000089</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341196</id>
+      <title>Silver / Broad</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000090</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341196</id>
+      <title>Silver / Double Broad</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000426</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341196</id>
+      <title>Raw / Extra Fine</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000627</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341196</id>
+      <title>Raw / Fine</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000628</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341196</id>
+      <title>Raw / Medium</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000629</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341196</id>
+      <title>Raw / Broad</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000630</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341196</id>
+      <title>Raw / Double Broad</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000631</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341196</id>
+      <title>Light Blue / Extra Fine</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10001197</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341196</id>
+      <title>Light Blue / Fine</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10001198</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341196</id>
+      <title>Light Blue / Medium</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10001199</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341196</id>
+      <title>Light Blue / Broad</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10001200</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341196</id>
+      <title>Light Blue / Double Broad</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10001201</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.voreia.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.voreia.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.voreia.ca/collections/hair-care.atom"/>
+  <title>Voreia Industries Inc. </title>
+  <updated>2017-02-23T19:39:29-05:00</updated>
+  <author>
+    <name>Voreia Industries Inc. </name>
+  </author>
+  <entry>
+    <id>https://www.voreia.ca/products/9769572684</id>
+    <published>2017-02-23T19:39:29-05:00</published>
+    <updated>2017-02-23T19:39:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/s-f-shampoo-50ml"/>
+    <title>S&amp;F - Shampoo - 50ml</title>
+    <s:type>Hair Care - Shampoo</s:type>
+    <s:vendor>Scaramouche &amp; Fandango</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/SF-SH50MT_shampoo-50ml_F.jpg?v=1487899628"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Scaramouche &amp; Fandango<br>
+        <strong>Type: </strong>Hair Care - Shampoo<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769572684</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>SF-SH50MT</s:sku>
+      <s:grams>63</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9769572620</id>
+    <published>2017-02-23T19:39:29-05:00</published>
+    <updated>2017-02-23T19:39:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/s-f-shampoo-200ml"/>
+    <title>S&amp;F - Shampoo - 200ml</title>
+    <s:type>Hair Care - Shampoo</s:type>
+    <s:vendor>Scaramouche &amp; Fandango</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/SF-SH200MT_shampoo-200ml_F.jpg?v=1487899489"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Scaramouche &amp; Fandango<br>
+        <strong>Type: </strong>Hair Care - Shampoo<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769572620</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>SF-SH200MT</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9769571788</id>
+    <published>2017-02-23T19:39:24-05:00</published>
+    <updated>2017-02-23T19:39:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/s-f-conditioner-200ml"/>
+    <title>S&amp;F - Conditioner - 200ml</title>
+    <s:type>Hair Care - Conditioner</s:type>
+    <s:vendor>Scaramouche &amp; Fandango</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/SF-CD200MT_conditioner-200ml-F.jpg?v=1487898034"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Scaramouche &amp; Fandango<br>
+        <strong>Type: </strong>Hair Care - Conditioner<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769571788</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>SF-CD200MT</s:sku>
+      <s:grams>216</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9769572748</id>
+    <published>2017-02-23T19:39:00-05:00</published>
+    <updated>2017-02-23T19:39:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/s-f-4-in-1-sports-wash-250ml"/>
+    <title>S&amp;F - 4 in 1 Sports Wash - 250ml</title>
+    <s:type>Hair Care - Shampoo</s:type>
+    <s:vendor>Scaramouche &amp; Fandango</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/SF-SW250MT_4in1sportswash_F.jpg?v=1487897082"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Scaramouche &amp; Fandango<br>
+        <strong>Type: </strong>Hair Care - Shampoo<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769572748</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>SF-SW250MT</s:sku>
+      <s:grams>276</s:grams>
+    </s:variant>
+  </entry>
+</feed>

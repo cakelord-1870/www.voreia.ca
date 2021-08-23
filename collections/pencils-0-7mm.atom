@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.voreia.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.voreia.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.voreia.ca/collections/pencils-0-7mm.atom"/>
+  <title>Voreia Industries Inc. </title>
+  <updated>2017-06-18T02:08:13-04:00</updated>
+  <author>
+    <name>Voreia Industries Inc. </name>
+  </author>
+  <entry>
+    <id>https://www.voreia.ca/products/11044204428</id>
+    <published>2017-06-18T02:08:13-04:00</published>
+    <updated>2017-06-18T02:08:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/kaweco-special-pointseven"/>
+    <title>Kaweco Special 0.7mm - Mechanical Pencil</title>
+    <s:type>Pencil - Pencil, 0.7Mm</s:type>
+    <s:vendor>Kaweco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kaweco<br>
+        <strong>Type: </strong>Pencil - Pencil, 0.7Mm<br>
+        <strong>Price: </strong>
+            16.00 - 18.00
+            <a href="https://www.voreia.ca/products/kaweco-special-pointseven">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><center></center></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Special</s:tag>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11044204428</id>
+      <title>Aluminum Black / Regular - 140mm</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>KW-10000182</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11044204428</id>
+      <title>Aluminum Black / Mini - 105mm</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku>KW-10000534</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11044204428</id>
+      <title>Brass / Regular - 140mm</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>KW-10001387</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11032341900</id>
+    <published>2017-06-16T09:39:39-04:00</published>
+    <updated>2017-06-16T09:39:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/kaweco-alsportfp-mp"/>
+    <title>Kaweco AL Sport - Mechanical Pencil</title>
+    <s:type>Pencil - Pencil, 0.7Mm</s:type>
+    <s:vendor>Kaweco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/kaweco_al_sport_ant_pp_web_white.jpg?v=1497621257"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kaweco<br>
+        <strong>Type: </strong>Pencil - Pencil, 0.7Mm<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><center></center></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ALSport</s:tag>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341900</id>
+      <title>Grey</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000102</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341900</id>
+      <title>Black</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000103</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341900</id>
+      <title>Silver</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000101</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341900</id>
+      <title>Raw</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000633</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341900</id>
+      <title>Light Blue</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10001204</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11028541836</id>
+    <published>2017-06-15T23:47:58-04:00</published>
+    <updated>2017-06-15T23:47:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/kaweco-classic-dia2-mp"/>
+    <title>Kaweco Dia2 - Mechanical Pencil</title>
+    <s:type>Pencil - Pencil, 0.7Mm</s:type>
+    <s:vendor>Kaweco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/kaweco_dia2_chr_mp_web_white.jpg?v=1497585441"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kaweco<br>
+        <strong>Type: </strong>Pencil - Pencil, 0.7Mm<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><center></center></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DIA2</s:tag>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11028541836</id>
+      <title>Chrome</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000552</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11028541836</id>
+      <title>Gold</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000553</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11016855308</id>
+    <published>2017-06-14T13:54:55-04:00</published>
+    <updated>2017-06-14T13:54:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/kaweco-elite-mp"/>
+    <title>Kaweco Elite - Push Pencils</title>
+    <s:type>Pencil - Pencil, 0.7Mm</s:type>
+    <s:vendor>Kaweco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/kaweco_elite_chr_mp_web_white.jpg?v=1497579553"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kaweco<br>
+        <strong>Type: </strong>Pencil - Pencil, 0.7Mm<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><center></center></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Elite</s:tag>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11016855308</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000174</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11016855116</id>
+    <published>2017-06-14T13:54:54-04:00</published>
+    <updated>2017-06-14T13:54:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/kaweco-elegance-mp"/>
+    <title>Kaweco Elegance - Twist Pencils</title>
+    <s:type>Pencil - Pencil, 0.7Mm</s:type>
+    <s:vendor>Kaweco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/kaweco_elegance_pp_web_white.jpg?v=1497580295"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kaweco<br>
+        <strong>Type: </strong>Pencil - Pencil, 0.7Mm<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><center></center></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Elegance</s:tag>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11016855116</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000840</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11016854860</id>
+    <published>2017-06-14T13:54:52-04:00</published>
+    <updated>2017-06-14T13:54:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/kaweco-brass-sport-mp"/>
+    <title>Kaweco Brass Sport - Push Pencils</title>
+    <s:type>Pencil - Pencil, 0.7Mm</s:type>
+    <s:vendor>Kaweco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/kaweco_brass_sport_pn_0.7_web_white.jpg?v=1497580244"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kaweco<br>
+        <strong>Type: </strong>Pencil - Pencil, 0.7Mm<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><center></center></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brass Sport</s:tag>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11016854860</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000923</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11016854284</id>
+    <published>2017-06-14T13:54:51-04:00</published>
+    <updated>2017-06-14T13:54:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/kaweco-steel-sport-mp"/>
+    <title>Kaweco Steel Sport - Push Pencils</title>
+    <s:type>Pencil - Pencil, 0.7Mm</s:type>
+    <s:vendor>Kaweco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/kaweco_steel_sport_pp_web_white.jpg?v=1497580425"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kaweco<br>
+        <strong>Type: </strong>Pencil - Pencil, 0.7Mm<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><center></center></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Steel Sport</s:tag>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11016854284</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10001405</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11015708364</id>
+    <published>2017-06-14T11:47:08-04:00</published>
+    <updated>2017-06-14T11:47:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/kaweco-skyline-sport-mp"/>
+    <title>Kaweco Skyline Sport - Push Pencils</title>
+    <s:type>Pencil - Pencil, 0.7Mm</s:type>
+    <s:vendor>Kaweco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/kaweco_classic_skyline_whit_pn_1_web_white.jpg?v=1497456047"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kaweco<br>
+        <strong>Type: </strong>Pencil - Pencil, 0.7Mm<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><center></center></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sport Skyline</s:tag>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708364</id>
+      <title>White</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000941</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708364</id>
+      <title>Mint</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000775</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708364</id>
+      <title>Grey</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000776</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708364</id>
+      <title>Black</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000777</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708364</id>
+      <title>Pink</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000932</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708364</id>
+      <title>Macchiato</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10001171</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11014963980</id>
+    <published>2017-06-14T08:53:03-04:00</published>
+    <updated>2017-06-14T08:53:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/kaweco-classic-sport-mp"/>
+    <title>Kaweco Classic Sport - Push Pencils</title>
+    <s:type>Pencil - Pencil, 0.7Mm</s:type>
+    <s:vendor>Kaweco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/kaweco_classic_red_pp_web_white.jpg?v=1497452650"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kaweco<br>
+        <strong>Type: </strong>Pencil - Pencil, 0.7Mm<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><center></center></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sport Classic</s:tag>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11014963980</id>
+      <title>Red</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10001153</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11014963980</id>
+      <title>Black</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000050</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11014963980</id>
+      <title>White</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000052</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11014963980</id>
+      <title>Transparent</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000053</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11014963980</id>
+      <title>Bordeaux</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000498</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11014963980</id>
+      <title>Green</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000499</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11014963980</id>
+      <title>Guilloch Black</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000067</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11012324620</id>
+    <published>2017-06-13T23:47:18-04:00</published>
+    <updated>2017-06-13T23:47:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/kaweco-ac-sport-pp"/>
+    <title>Kaweco AC Sport - Push Pencils</title>
+    <s:type>Pencil - Pencil, 0.7Mm</s:type>
+    <s:vendor>Kaweco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/kaweco_ac_bla_mp_web_white.jpg?v=1497412946"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kaweco<br>
+        <strong>Type: </strong>Pencil - Pencil, 0.7Mm<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><center></center></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC Sport</s:tag>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11012324620</id>
+      <title>Black</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000141</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11012324620</id>
+      <title>Orange</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10001211</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11012324620</id>
+      <title>Green</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10001218</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11012324620</id>
+      <title>Red</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000354</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11011109324</id>
+    <published>2017-06-13T14:14:02-04:00</published>
+    <updated>2017-06-13T14:14:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/kaweco-ice-sport-clutch-pencils"/>
+    <title>Kaweco Ice Sport - Clutch Pencils</title>
+    <s:type>Pencil - Pencil, 0.7Mm</s:type>
+    <s:vendor>Kaweco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/kaweco_ice_bla_cp_web_white.jpg?v=1497402589"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kaweco<br>
+        <strong>Type: </strong>Pencil - Pencil, 0.7Mm<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Info:</h3>
+<p><span>Pocket 3.2mm clutch pencil made around a metal mechanism. Fitted with HB graphite lead, available with and without clip</span></p>
+<p><span>Made in Germany <img src="https://cdn.shopify.com/s/files/1/1698/1911/files/flag-german_1.gif?v=1497271499" alt=""></span></p>
+<h3><span>Other Models &amp; Links for This Series: </span></h3>
+<ul>
+<li><a href="https://www.voreia.ca/collections/kaweco-ice-sport-pens">Ice Sport Series -- Quick Order Sheet</a></li>
+<li><a href="https://www.voreia.ca/collections/kaweco-ice-sport-pens/products/kaweco-ice-sport">Ice Sport Fountain Pens</a></li>
+<li><a href="https://www.voreia.ca/collections/kaweco-ice-sport-pens/products/kaweco-ice-sport-ball-pens">Ice Sport Ballpens </a></li>
+<li>
+<a href="https://www.voreia.ca/collections/kaweco-ice-sport-pens/products/kaweco-ice-sport-rollerballs">Ice Sport Rollerballs</a> </li>
+<li><a href="https://www.voreia.ca/collections/kaweco-ice-sport-pens/products/kaweco-ice-sport-push-pencils">Ice Sport Push Pencil 0.7mm</a></li>
+<li><a href="https://www.voreia.ca/collections/kaweco-ice-sport-pens/products/kaweco-ice-sport-clutch-pencils">Ice Sport Clutch Pencil 3.2mm</a></li>
+</ul>
+<h3>History:</h3>
+<p>Translucent stands for the idea to make the invisible visible. As early as the twenties Kaweco representatives were already equipped with a writing instrument cross section pen model. These cross section models were made by cutting serial products in half in order to make the interior mechanisms more visible. However, this process became unnecessary in the fifties through the further development of the injection molding technique. Translucent models were produced.</p>
+<p><br>The Kaweco ICE Sport has the same characteristics and comes in a colorful variety.</p>
+<p> </p>
+<p><img src="https://cdn.shopify.com/s/files/1/1698/1911/files/Ice_Sport_large.png?v=1497377730" alt=""></p>
+<p><img src="https://cdn.shopify.com/s/files/1/1698/1911/files/Cardboard_Packing_compact.png?v=1497403344" alt=""></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ice Sport</s:tag>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11011109324</id>
+      <title>Black</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10001161</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11011109324</id>
+      <title>Blue</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000045</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11011109324</id>
+      <title>Yellow</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000587</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11011109324</id>
+      <title>Orange</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000047</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11011109324</id>
+      <title>Red</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000046</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11011109324</id>
+      <title>Pink</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000588</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11011077068</id>
+    <published>2017-06-13T14:14:02-04:00</published>
+    <updated>2017-06-13T14:14:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/kaweco-ice-sport-push-pencils"/>
+    <title>Kaweco Ice Sport - Push Pencils</title>
+    <s:type>Pencil - Pencil, 0.7Mm</s:type>
+    <s:vendor>Kaweco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/kaweco_ice_bla_pp_web_white.jpg?v=1497402167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kaweco<br>
+        <strong>Type: </strong>Pencil - Pencil, 0.7Mm<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Info:</h3>
+<p><span>A wonderful compact push pencil with high quality push-button mechanism. 0.7 mm polymer lead with and without clip.</span></p>
+<p><span>Made in Germany <img src="https://cdn.shopify.com/s/files/1/1698/1911/files/flag-german_1.gif?v=1497271499" alt=""></span></p>
+<h3><span>Other Models &amp; Links for This Series: </span></h3>
+<ul>
+<li><a href="https://www.voreia.ca/collections/kaweco-ice-sport-pens">Ice Sport Series -- Quick Order Sheet</a></li>
+<li><a href="https://www.voreia.ca/collections/kaweco-ice-sport-pens/products/kaweco-ice-sport">Ice Sport Fountain Pens</a></li>
+<li><a href="https://www.voreia.ca/collections/kaweco-ice-sport-pens/products/kaweco-ice-sport-ball-pens">Ice Sport Ballpens </a></li>
+<li>
+<a href="https://www.voreia.ca/collections/kaweco-ice-sport-pens/products/kaweco-ice-sport-rollerballs">Ice Sport Rollerballs</a> </li>
+<li><a href="https://www.voreia.ca/collections/kaweco-ice-sport-pens/products/kaweco-ice-sport-push-pencils">Ice Sport Push Pencil 0.7mm</a></li>
+<li><a href="https://www.voreia.ca/collections/kaweco-ice-sport-pens/products/kaweco-ice-sport-clutch-pencils">Ice Sport Clutch Pencil 3.2mm</a></li>
+</ul>
+<h3>History:</h3>
+<p>Translucent stands for the idea to make the invisible visible. As early as the twenties Kaweco representatives were already equipped with a writing instrument cross section pen model. These cross section models were made by cutting serial products in half in order to make the interior mechanisms more visible. However, this process became unnecessary in the fifties through the further development of the injection molding technique. Translucent models were produced.</p>
+<p><br>The Kaweco ICE Sport has the same characteristics and comes in a colorful variety.</p>
+<p> </p>
+<p><img src="https://cdn.shopify.com/s/files/1/1698/1911/files/Ice_Sport_large.png?v=1497377730" alt=""></p>
+<p><img src="https://cdn.shopify.com/s/files/1/1698/1911/files/Cardboard_Packing_compact.png?v=1497403344" alt=""></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ice Sport</s:tag>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11011077068</id>
+      <title>Black</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10001162</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11011077068</id>
+      <title>Blue</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000235</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11011077068</id>
+      <title>Yellow</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000585</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11011077068</id>
+      <title>Orange</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000237</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11011077068</id>
+      <title>Red</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000238</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11011077068</id>
+      <title>Pink</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000586</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

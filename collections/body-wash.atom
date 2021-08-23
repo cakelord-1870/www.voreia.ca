@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.voreia.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.voreia.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.voreia.ca/collections/body-wash.atom"/>
+  <title>Voreia Industries Inc. </title>
+  <updated>2017-06-13T10:20:23-04:00</updated>
+  <author>
+    <name>Voreia Industries Inc. </name>
+  </author>
+  <entry>
+    <id>https://www.voreia.ca/products/11006107212</id>
+    <published>2017-06-13T10:20:23-04:00</published>
+    <updated>2017-06-13T10:20:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/e-shave-face-wash-113g-white-tea"/>
+    <title>eShave Face Wash 113g - White Tea</title>
+    <s:type>Soap, Toliet Use - Liquid Soap, Bath</s:type>
+    <s:vendor>eShave</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/face_wash.jpg?v=1497365092"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>eShave<br>
+        <strong>Type: </strong>Soap, Toliet Use - Liquid Soap, Bath<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11006107212</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>ES-93409</s:sku>
+      <s:grams>144</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9769571724</id>
+    <published>2017-02-23T19:39:24-05:00</published>
+    <updated>2017-02-23T19:39:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/s-f-body-wash-50ml"/>
+    <title>S&amp;F - Body Wash - 50ml</title>
+    <s:type>Soap, Toliet Use - Liquid Soap, Bath</s:type>
+    <s:vendor>Scaramouche &amp; Fandango</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/SF-BW50MT_bodywash-50ml_F.jpg?v=1487897678"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Scaramouche &amp; Fandango<br>
+        <strong>Type: </strong>Soap, Toliet Use - Liquid Soap, Bath<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769571724</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>SF-BW50MT</s:sku>
+      <s:grams>62</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9769571660</id>
+    <published>2017-02-23T19:39:24-05:00</published>
+    <updated>2017-02-23T19:39:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/s-f-body-wash-200ml"/>
+    <title>S&amp;F - Body Wash - 200ml</title>
+    <s:type>Soap, Toliet Use - Liquid Soap, Bath</s:type>
+    <s:vendor>Scaramouche &amp; Fandango</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/SF-SW200MT_bodywash-200ml_F.jpg?v=1487897619"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Scaramouche &amp; Fandango<br>
+        <strong>Type: </strong>Soap, Toliet Use - Liquid Soap, Bath<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769571660</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>SF-BW200MT</s:sku>
+      <s:grams>221</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9769360908</id>
+    <published>2017-02-23T18:55:00-05:00</published>
+    <updated>2017-02-23T18:55:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/daimon-barber-face-wash-100ml"/>
+    <title>Daimon Barber Face Wash 100ml</title>
+    <s:type>Soap, Toliet Use - Liquid Soap, Bath</s:type>
+    <s:vendor>Daimon Barber</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/DB-FW100-01_FaceWash_40320_S2.jpg?v=1487894909"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Daimon Barber<br>
+        <strong>Type: </strong>Soap, Toliet Use - Liquid Soap, Bath<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This face wash gently removes dirt and oil from the skin. Propolis has anti-oxidant and anti-bacterial properties and enhances skin renewal. Glycoderm and Honeybee Moisture Complex support moisture retention. This product is free from parabens and other nasty chemicals.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769360908</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>DB-FW100-01</s:sku>
+      <s:grams>135</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9769360588</id>
+    <published>2017-02-23T18:55:00-05:00</published>
+    <updated>2017-02-23T18:55:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/daimon-barber-exfoliating-cleanser-100ml"/>
+    <title>Daimon Barber Exfoliating Cleanser 100ml</title>
+    <s:type>Soap, Toliet Use - Liquid Soap, Bath</s:type>
+    <s:vendor>Daimon Barber</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/DB-EC100-01_ExfoliatingCleanser_40351_S2.jpg?v=1487894586"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Daimon Barber<br>
+        <strong>Type: </strong>Soap, Toliet Use - Liquid Soap, Bath<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This cleanser contains small pumice particles that rapidly resurface, polish and brighten the skin, lifting the facial hair before shaving and helping to prevent ingrowing hairs and blemishes. Honeybee Moisture Complex moisturizes the skin, and the Propolis antioxidant protect the skin. After use, the skin will feel smooth and remarkably cleansed. This product is free from parabens and other nasty chemicals.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769360588</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>DB-EC100-01</s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+  </entry>
+</feed>

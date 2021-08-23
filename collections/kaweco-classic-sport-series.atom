@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.voreia.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.voreia.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.voreia.ca/collections/kaweco-classic-sport-series.atom"/>
+  <title>Voreia Industries Inc. </title>
+  <updated>2017-06-14T10:42:01-04:00</updated>
+  <author>
+    <name>Voreia Industries Inc. </name>
+  </author>
+  <entry>
+    <id>https://www.voreia.ca/products/11015456204</id>
+    <published>2017-06-14T10:42:01-04:00</published>
+    <updated>2017-06-14T10:42:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/kaweco-classic-sport-rb"/>
+    <title>Kaweco Classic Sport - Rollerball</title>
+    <s:type>Pen, Non-Fountain - Pen, Rollerball</s:type>
+    <s:vendor>Kaweco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/kaweco_classic_bordeaux_cr_web_white.jpg?v=1497452936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kaweco<br>
+        <strong>Type: </strong>Pen, Non-Fountain - Pen, Rollerball<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><center></center></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sport Classic</s:tag>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015456204</id>
+      <title>Bordeaux</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000496</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015456204</id>
+      <title>White</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000034</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015456204</id>
+      <title>Green</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000497</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015456204</id>
+      <title>Transparent</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000035</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015456204</id>
+      <title>Black</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000032</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015456204</id>
+      <title>Red</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10001150</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015456204</id>
+      <title>Guilloch Black</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000807</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015456204</id>
+      <title>Chess Black</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000825</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11015456076</id>
+    <published>2017-06-14T10:42:00-04:00</published>
+    <updated>2017-06-14T10:42:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/kaweco-classic-sport-bp"/>
+    <title>Kaweco Classic Sport - Ball Pens</title>
+    <s:type>Pen, Non-Fountain - Pen, Ballpoint</s:type>
+    <s:vendor>Kaweco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/kaweco_classic_whi_bp_web_white.jpg?v=1497451447"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kaweco<br>
+        <strong>Type: </strong>Pen, Non-Fountain - Pen, Ballpoint<br>
+        <strong>Price: </strong>
+            0.00 - 4.00
+            <a href="https://www.voreia.ca/products/kaweco-classic-sport-bp">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><center></center></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sport Classic</s:tag>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015456076</id>
+      <title>White</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000019</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015456076</id>
+      <title>Red</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10001151</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015456076</id>
+      <title>Green</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000493</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015456076</id>
+      <title>Transparent</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000020</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015456076</id>
+      <title>Bordeaux</title>
+      <s:price currency="CAD">1.00</s:price>
+      <s:sku>KW-10000492</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015456076</id>
+      <title>Black</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>KW-10000017</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015456076</id>
+      <title>Chess Black</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>KW-10000061</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015456076</id>
+      <title>Guilloch Black</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>KW-10000065</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11014964044</id>
+    <published>2017-06-14T08:53:04-04:00</published>
+    <updated>2017-06-14T08:53:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/kaweco-classic-sport-cp"/>
+    <title>Kaweco Classic Sport - Clutch Pencils</title>
+    <s:type>Pencil - Pencil, 3.2Mm</s:type>
+    <s:vendor>Kaweco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/kaweco_classic_bla_cp_3-2_2_web_white.jpg?v=1497452309"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kaweco<br>
+        <strong>Type: </strong>Pencil - Pencil, 3.2Mm<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><center></center></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sport Classic</s:tag>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11014964044</id>
+      <title>White</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000041</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11014964044</id>
+      <title>Black</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000040</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11014964044</id>
+      <title>Transparent</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000043</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11014964044</id>
+      <title>Bordeaux</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000500</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11014964044</id>
+      <title>Green</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000501</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11014964044</id>
+      <title>Red</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10001152</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11014964044</id>
+      <title>Chess Black</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000604</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11014964044</id>
+      <title>Guilloch Black</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000066</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11014963980</id>
+    <published>2017-06-14T08:53:03-04:00</published>
+    <updated>2017-06-14T08:53:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/kaweco-classic-sport-mp"/>
+    <title>Kaweco Classic Sport - Push Pencils</title>
+    <s:type>Pencil - Pencil, 0.7Mm</s:type>
+    <s:vendor>Kaweco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/kaweco_classic_red_pp_web_white.jpg?v=1497452650"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kaweco<br>
+        <strong>Type: </strong>Pencil - Pencil, 0.7Mm<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><center></center></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sport Classic</s:tag>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11014963980</id>
+      <title>Red</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10001153</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11014963980</id>
+      <title>Black</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000050</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11014963980</id>
+      <title>White</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000052</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11014963980</id>
+      <title>Transparent</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000053</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11014963980</id>
+      <title>Bordeaux</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000498</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11014963980</id>
+      <title>Green</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000499</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11014963980</id>
+      <title>Guilloch Black</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000067</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11014963404</id>
+    <published>2017-06-14T08:53:00-04:00</published>
+    <updated>2017-06-14T08:53:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/kaweco-classic-sport-fp"/>
+    <title>Kaweco Classic Sport - Fountain Pens</title>
+    <s:type>Pen, Fountain</s:type>
+    <s:vendor>Kaweco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/kaweco_classic_whi_fp_1_web_white.jpg?v=1497444954"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kaweco<br>
+        <strong>Type: </strong>Pen, Fountain<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Info:</h3>
+<p><span>A wonderful compact fountain pen with steel nib and iridium made by famous nib manufacturer Peter Bock. This pen utilizes international standard ink cartridges for convenience. When this pen is closed it has a length of only 10.5 cm and is 13.5 cm when the cap is posted.</span></p>
+<p><span>Available in the nib sizes EF / F / M / B / BB - with and without clip.</span></p>
+<p><span>Made in Germany: <img src="https://cdn.shopify.com/s/files/1/1698/1911/files/flag-german_1.gif?v=1497271499" alt=""></span></p>
+<h3><span>Other Models &amp; Links for This Series: </span></h3>
+<ul>
+<li><a href="https://www.voreia.ca/collections/kaweco-ice-sport-pens">Sport Classic -- Quick Order Sheet</a></li>
+<li><a href="https://www.voreia.ca/collections/kaweco-ice-sport-pens/products/kaweco-ice-sport">Sport Classic Fountain Pens</a></li>
+<li>Sport Classic<a href="https://www.voreia.ca/collections/kaweco-ice-sport-pens/products/kaweco-ice-sport-ball-pens"> Ballpens</a>
+</li>
+<li>Sport Classic<a href="https://www.voreia.ca/collections/kaweco-ice-sport-pens/products/kaweco-ice-sport-rollerballs"> Rollerballs</a>
+</li>
+<li>Sport Classic<a href="https://www.voreia.ca/collections/kaweco-ice-sport-pens/products/kaweco-ice-sport-push-pencils"> Push Pencil 0.7mm</a>
+</li>
+<li>Sport Classic<a href="https://www.voreia.ca/collections/kaweco-ice-sport-pens/products/kaweco-ice-sport-clutch-pencils"> Clutch Pencil 3.2mm</a>
+</li>
+</ul>
+<h3>History:</h3>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 58.5276%;">
+<p>In 1911 something remarkable by the name of Kaweco SPORT was created. A pocket fountain pen which could be carried everywhere. It only measured 10.5 cm when closed, but when the cap was mounted on top of the barrel, it grew to a standard sized pen.</p>
+<p><br>Seppi Herberger already appreciated the features of this fountain pen. It was a Kaweco SPORT that commited his victorious tactics to paper. Tactics that made the German team win the World Cup in 1954. Kaweco's involvement in the sporting wold continued when in 1972 the Sport was marketed with a pendant for the Olympic Games being held in Munich Germany.  </p>
+<p><a href="https://cdn.shopify.com/s/files/1/1698/1911/files/kaweco-sport-historie.pdf?3479440343521465737"> A wonderful PDF on the history of the Kaweco Sport series is available here. </a></p>
+</td>
+<td style="width: 38.4724%;">
+<p><br><img src="//cdn.shopify.com/s/files/1/1698/1911/files/1935_classic_sport_medium.png?v=1497408114" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<p> Kaweco Sport Advertising, 1935 </p>
+</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p><br>The Kaweco Sport Classic has the same characteristics and comes in a colorful variety.</p>
+<p><img src="//cdn.shopify.com/s/files/1/1698/1911/files/Sport_Classic_large.png?v=1497406376" alt=""></p>
+<p><img src="//cdn.shopify.com/s/files/1/1698/1911/files/Cardboard_Packing_compact.png?v=1497403344" alt=""></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sport Classic</s:tag>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11014963404</id>
+      <title>White / Medium</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000002</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11014963404</id>
+      <title>White / Fine</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000006</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11014963404</id>
+      <title>White / Extra Fine</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000305</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11014963404</id>
+      <title>White / Double Broad</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000413</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11014963404</id>
+      <title>White / Broad</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000015</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11014963404</id>
+      <title>Transparent / Medium</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000003</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11014963404</id>
+      <title>Transparent / Fine</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000007</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11014963404</id>
+      <title>Transparent / Extra Fine</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000106</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11014963404</id>
+      <title>Transparent / Double Broad</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000177</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11014963404</id>
+      <title>Transparent / Broad</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000016</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11014963404</id>
+      <title>Red / Medium</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10001147</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11014963404</id>
+      <title>Red / Fine</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10001146</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11014963404</id>
+      <title>Red / Extra Fine</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10001145</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11014963404</id>
+      <title>Red / Double Broad</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10001149</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11014963404</id>
+      <title>Red / Broad</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10001148</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11014963404</id>
+      <title>Green / Medium</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000489</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11014963404</id>
+      <title>Green / Fine</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000488</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11014963404</id>
+      <title>Green / Extra Fine</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000487</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11014963404</id>
+      <title>Green / Double Broad</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000491</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11014963404</id>
+      <title>Green / Broad</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000490</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11014963404</id>
+      <title>Bordeaux / Medium</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000484</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11014963404</id>
+      <title>Bordeaux / Fine</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000483</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11014963404</id>
+      <title>Bordeaux / Extra Fine</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000482</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11014963404</id>
+      <title>Bordeaux / Double Broad</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000486</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11014963404</id>
+      <title>Bordeaux / Broad</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000485</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11014963404</id>
+      <title>Black / Medium</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000000</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11014963404</id>
+      <title>Black / Fine</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000004</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11014963404</id>
+      <title>Black / Extra Fine</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000044</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11014963404</id>
+      <title>Black / Double Broad</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000014</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11014963404</id>
+      <title>Black / Broad</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000013</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11014963404</id>
+      <title>Chess Black / Medium</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000054</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11014963404</id>
+      <title>Chess Black / Fine</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000056</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11014963404</id>
+      <title>Chess Black / Extra Fine</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000415</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11014963404</id>
+      <title>Chess Black / Double Broad</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000416</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11014963404</id>
+      <title>Chess Black / Broad</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000055</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11014963404</id>
+      <title>Guilloch Black / Medium</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000062</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11014963404</id>
+      <title>Guilloch Black / Fine</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000063</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11014963404</id>
+      <title>Guilloch Black / Extra Fine</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000385</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11014963404</id>
+      <title>Guilloch Black / Double Broad</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000384</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11014963404</id>
+      <title>Guilloch Black / Broad</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000064</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+  </entry>
+</feed>

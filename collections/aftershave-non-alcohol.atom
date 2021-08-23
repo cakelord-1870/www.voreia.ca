@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.voreia.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.voreia.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.voreia.ca/collections/aftershave-non-alcohol.atom"/>
+  <title>Voreia Industries Inc. </title>
+  <updated>2017-06-13T10:20:13-04:00</updated>
+  <author>
+    <name>Voreia Industries Inc. </name>
+  </author>
+  <entry>
+    <id>https://www.voreia.ca/products/11006104204</id>
+    <published>2017-06-13T10:20:13-04:00</published>
+    <updated>2017-06-13T10:20:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/e-shave-a-s-soother-180g-verbena-lime"/>
+    <title>eShave After Shave Soother 180g - Verbena Lime</title>
+    <s:type>Shaving Preparations - Aftershave Gel/Balm/Cream</s:type>
+    <s:vendor>eShave</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/AS_VL_6oz_Zoom.jpg?v=1497364106"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>eShave<br>
+        <strong>Type: </strong>Shaving Preparations - Aftershave Gel/Balm/Cream<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11006104204</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>ES-26007</s:sku>
+      <s:grams>194</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11006104140</id>
+    <published>2017-06-13T10:20:12-04:00</published>
+    <updated>2017-06-13T10:20:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/e-shave-a-s-soother-180g-ornge-swood"/>
+    <title>eShave After Shave Soother 180g - Orange Sandalwood</title>
+    <s:type>Shaving Preparations - Aftershave Gel/Balm/Cream</s:type>
+    <s:vendor>eShave</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/AS_OS_6oz_Zoom.jpg?v=1497364044"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>eShave<br>
+        <strong>Type: </strong>Shaving Preparations - Aftershave Gel/Balm/Cream<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11006104140</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>ES-26004</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11006103948</id>
+    <published>2017-06-13T10:20:12-04:00</published>
+    <updated>2017-06-13T10:20:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/e-shave-a-s-cream-120g-white-tea"/>
+    <title>eShave After Shave Cream 120g - White Tea</title>
+    <s:type>Shaving Preparations - Aftershave Gel/Balm/Cream</s:type>
+    <s:vendor>eShave</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/AS_WT_4oz_Zoom.jpg?v=1497363953"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>eShave<br>
+        <strong>Type: </strong>Shaving Preparations - Aftershave Gel/Balm/Cream<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11006103948</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>ES-24009</s:sku>
+      <s:grams>192</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9769992908</id>
+    <published>2017-02-23T20:43:42-05:00</published>
+    <updated>2017-02-23T20:43:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/simpsons-skin-food-100ml"/>
+    <title>Simpsons - Skin Food 100ml</title>
+    <s:type>Shaving Preparations - Aftershave Gel/Balm/Cream</s:type>
+    <s:vendor>Simpsons Shaving Brushes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/SIM-PXSF_SkinFood_F.jpg?v=1488399191"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Simpsons Shaving Brushes<br>
+        <strong>Type: </strong>Shaving Preparations - Aftershave Gel/Balm/Cream<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769992908</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>SIM-PXSF</s:sku>
+      <s:grams>117</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9769992460</id>
+    <published>2017-02-23T20:43:41-05:00</published>
+    <updated>2017-02-23T20:43:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/simpsons-aftershave-balm-75ml-luxury"/>
+    <title>Simpsons - Aftershave Balm 75ml -Luxury</title>
+    <s:type>Shaving Preparations - Aftershave Gel/Balm/Cream</s:type>
+    <s:vendor>Simpsons Shaving Brushes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/SIM-PXAS_AftershaveBalm_F.jpg?v=1488397742"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Simpsons Shaving Brushes<br>
+        <strong>Type: </strong>Shaving Preparations - Aftershave Gel/Balm/Cream<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769992460</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>SIM-PXAS</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9769362188</id>
+    <published>2017-02-23T18:55:00-05:00</published>
+    <updated>2017-02-23T18:55:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/daimon-barber-post-shave-balm-100ml"/>
+    <title>Daimon Barber Post Shave Balm 100ml</title>
+    <s:type>Shaving Preparations - Aftershave Gel/Balm/Cream</s:type>
+    <s:vendor>Daimon Barber</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/DB-PSB100-01_PostShaveBalm_40412_S2.jpg?v=1487896498"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Daimon Barber<br>
+        <strong>Type: </strong>Shaving Preparations - Aftershave Gel/Balm/Cream<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This post shave balm with Myramaze and Menthol, cools, soothes and comfort freshly shaven skin. Uniquely formulated with rosehip, apple seed, lime seed and camellia seed oils, provides antioxidants  and vitamins to revive skin at the cellular level. This product is free from parabens and other nasty chemicals.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769362188</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>DB-PSB100-01</s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9768115148</id>
+    <published>2017-02-23T15:50:00-05:00</published>
+    <updated>2017-02-23T15:50:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/cf-aftershave-balm-150ml-1445"/>
+    <title>CF Aftershave Balm 150ml - 1445</title>
+    <s:type>Shaving Preparations - Aftershave Gel/Balm/Cream</s:type>
+    <s:vendor>Castle Forbes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/CF_05008_AfterShaveBalm_S2.jpg?v=1487883132"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Castle Forbes<br>
+        <strong>Type: </strong>Shaving Preparations - Aftershave Gel/Balm/Cream<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Luxurious moisturizing aftershave Balm with Witch Hazel to gently close the pores. This product supports the third step in your daily shave process, pre-shave, shave and aftershave moisturizing.  Enjoy the Castle Forbes signature 1445 Scent in a convenient 150 ml format.</div>
+<div>Contains only pure essential oils, free from fragrance, colours, and Parabens. In keeping with Castle Forbes Heritage, this product has been developed without animal testing.</div>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9768115148</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>CF-05008</s:sku>
+      <s:grams>205</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9768114572</id>
+    <published>2017-02-23T15:50:00-05:00</published>
+    <updated>2017-02-23T15:50:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/cf-aftershave-balm-150ml-cedar-swood"/>
+    <title>CF Aftershave Balm 150ml - Cedar &amp; Sandalwood</title>
+    <s:type>Shaving Preparations - Aftershave Gel/Balm/Cream</s:type>
+    <s:vendor>Castle Forbes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/CF_03052_AfterShaveSandal_Cedar_S2.jpg?v=1487883206"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Castle Forbes<br>
+        <strong>Type: </strong>Shaving Preparations - Aftershave Gel/Balm/Cream<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="display: inline !important;">Luxurious moisturizing aftershave Balm with Witch Hazel to gently close the pores. This product supports the third step in your daily shave process, pre-shave, shave and aftershave moisturizing.  Enjoy the Castle Forbes refreshing <span>Cedarwood and Sandalwood</span> Scent in a convenient 150 ml format.</div>
+<div>Contains only pure essential oils, free from fragrance, colours, and Parabens. In keeping with Castle Forbes Heritage, this product has been developed without animal testing.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9768114572</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>CF-03052</s:sku>
+      <s:grams>205</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9768114508</id>
+    <published>2017-02-23T15:50:00-05:00</published>
+    <updated>2017-02-23T15:50:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/cf-aftershave-balm-150ml-lime"/>
+    <title>CF Aftershave Balm 150ml - Lime</title>
+    <s:type>Shaving Preparations - Aftershave Gel/Balm/Cream</s:type>
+    <s:vendor>Castle Forbes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/CF-03151_AftershaveBalmLime_S2.jpg?v=1497804315"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Castle Forbes<br>
+        <strong>Type: </strong>Shaving Preparations - Aftershave Gel/Balm/Cream<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Luxurious moisturizing aftershave Balm with Witch Hazel to gently close the pores. This product supports the third step in your daily shave process, pre-shave, shave and aftershave moisturizing.  Enjoy the Castle Forbes refreshing Lime Scent in a convenient 150 ml format.<br>Contains only pure essential oils, free from fragrance, colours, and Parabens. In keeping with Castle Forbes Heritage, this product has been developed without animal testing.</div>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9768114508</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>CF-03051</s:sku>
+      <s:grams>205</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9768114380</id>
+    <published>2017-02-23T15:50:00-05:00</published>
+    <updated>2017-02-23T15:50:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/cf-aftershave-balm-150ml-lavender"/>
+    <title>CF Aftershave Balm 150ml - Lavender</title>
+    <s:type>Shaving Preparations - Aftershave Gel/Balm/Cream</s:type>
+    <s:vendor>Castle Forbes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/CF_03050_AfterShaveLavender_S2.jpg?v=1487883320"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Castle Forbes<br>
+        <strong>Type: </strong>Shaving Preparations - Aftershave Gel/Balm/Cream<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Luxurious moisturizing aftershave Balm with Witch Hazel to gently close the pores. This product supports the third step in your daily shave process, pre-shave, shave and aftershave moisturizing.  Enjoy the Castle Forbes aromatic Lavender Scent in a convenient 150 ml format.<br>Contains only pure essential oils, free from fragrance, colours, and Parabens. In keeping with Castle Forbes Heritage, this product has been developed without animal testing.</div>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9768114380</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>CF-03050</s:sku>
+      <s:grams>205</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9555647564</id>
+    <published>2017-01-31T10:35:00-05:00</published>
+    <updated>2017-01-31T10:35:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/baume-be-aftershave-balm-100-ml"/>
+    <title>BAUME.BE - Aftershave Balm 100 ml</title>
+    <s:type>Shaving Preparations - Aftershave Gel/Balm/Cream</s:type>
+    <s:vendor>Baume.be</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/BE-AB100_AftershaveBalm_100ml_S2.jpg?v=1488405379"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Baume.be<br>
+        <strong>Type: </strong>Shaving Preparations - Aftershave Gel/Balm/Cream<br>
+        <strong>Price: </strong>
+            37.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Aftershave Balm has a subtle fragrance which has been formulated using a unique combination of ingredients which are alcohol-free and natural. The Aftershave Balm is enhanced with essential oils which will moisturize and sooth your skin after you shave. You will notice a calming effect after application which will sooth razor burn and keep your skin nourished all day.</p>
+<p>Baume.Be is the only full shaving line devoted to sensitive skin. All Baume.Be products have been designed and formulated to work for all skin types but specifically those who suffer from sensitivity to the other grooming products available today.</p>
+<p>The Aftershave Balm is paraben and alcohol free.</p>
+<p>100ml Black Glass Bottle</p>
+<p>Made in Belgium</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9555647564</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.30</s:price>
+      <s:sku>BE-AB100</s:sku>
+      <s:grams>270</s:grams>
+    </s:variant>
+  </entry>
+</feed>

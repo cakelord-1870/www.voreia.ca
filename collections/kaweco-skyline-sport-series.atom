@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.voreia.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.voreia.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.voreia.ca/collections/kaweco-skyline-sport-series.atom"/>
+  <title>Voreia Industries Inc. </title>
+  <updated>2017-06-14T11:47:10-04:00</updated>
+  <author>
+    <name>Voreia Industries Inc. </name>
+  </author>
+  <entry>
+    <id>https://www.voreia.ca/products/11015708556</id>
+    <published>2017-06-14T11:47:10-04:00</published>
+    <updated>2017-06-14T11:47:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/kaweco-skyline-sport-fp"/>
+    <title>Kaweco SkylineSport - Fountain Pens</title>
+    <s:type>Pen, Fountain</s:type>
+    <s:vendor>Kaweco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/kaweco_classic_skyline_whit_fp_1_web_white.jpg?v=1497456431"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kaweco<br>
+        <strong>Type: </strong>Pen, Fountain<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><center></center></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sport Skyline</s:tag>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708556</id>
+      <title>White / Medium</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000935</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708556</id>
+      <title>White / Fine</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000936</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708556</id>
+      <title>White / Extra Fine</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000937</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708556</id>
+      <title>White / Double Broad</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000934</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708556</id>
+      <title>White / Broad</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000933</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708556</id>
+      <title>Pink / Medium</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000926</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708556</id>
+      <title>Pink / Fine</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000927</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708556</id>
+      <title>Pink / Extra Fine</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000928</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708556</id>
+      <title>Pink / Double Broad</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000925</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708556</id>
+      <title>Pink / Broad</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000924</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708556</id>
+      <title>Mint / Medium</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000752</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708556</id>
+      <title>Mint / Fine</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000753</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708556</id>
+      <title>Mint / Extra Fine</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000754</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708556</id>
+      <title>Mint / Double Broad</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000751</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708556</id>
+      <title>Mint / Broad</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000750</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708556</id>
+      <title>Grey / Medium</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000757</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708556</id>
+      <title>Grey / Fine</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000758</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708556</id>
+      <title>Grey / Extra Fine</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000759</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708556</id>
+      <title>Grey / Double Broad</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000756</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708556</id>
+      <title>Grey / Broad</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000755</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708556</id>
+      <title>Macchiato / Medium</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10001165</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708556</id>
+      <title>Macchiato / Fine</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10001164</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708556</id>
+      <title>Macchiato / Extra Fine</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10001163</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708556</id>
+      <title>Macchiato / Double Broad</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10001167</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708556</id>
+      <title>Macchiato / Broad</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10001166</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708556</id>
+      <title>Black / Medium</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000766</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708556</id>
+      <title>Black / Fine</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000767</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708556</id>
+      <title>Black / Extra Fine</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000768</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708556</id>
+      <title>Black / Double Broad</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000765</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708556</id>
+      <title>Black / Broad</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000764</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11015708492</id>
+    <published>2017-06-14T11:47:09-04:00</published>
+    <updated>2017-06-14T11:47:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/kaweco-skyline-sport-cp"/>
+    <title>Kaweco Skyline Sport - Clutch Pencils</title>
+    <s:type>Pencil - Pencil, 3.2Mm</s:type>
+    <s:vendor>Kaweco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/kaweco_classic_skyline_whit_cp_1_web_white.jpg?v=1497455986"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kaweco<br>
+        <strong>Type: </strong>Pencil - Pencil, 3.2Mm<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><center></center></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sport Skyline</s:tag>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708492</id>
+      <title>White</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000940</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708492</id>
+      <title>Mint</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000779</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708492</id>
+      <title>Grey</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000778</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708492</id>
+      <title>Macchiato</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10001170</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708492</id>
+      <title>Black</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000780</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708492</id>
+      <title>Pink</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000931</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11015708428</id>
+    <published>2017-06-14T11:47:09-04:00</published>
+    <updated>2017-06-14T11:47:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/kaweco-skyline-sport-rb"/>
+    <title>Kaweco Skyline Sport - Rollerball</title>
+    <s:type>Pen, Non-Fountain - Pen, Rollerball</s:type>
+    <s:vendor>Kaweco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/kaweco_classic_skyline_whit_rb_1_web_white.jpg?v=1497456272"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kaweco<br>
+        <strong>Type: </strong>Pen, Non-Fountain - Pen, Rollerball<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><center></center></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sport Skyline</s:tag>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708428</id>
+      <title>White</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000938</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708428</id>
+      <title>Mint</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000773</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708428</id>
+      <title>Grey</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000772</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708428</id>
+      <title>Macchiato</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10001168</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708428</id>
+      <title>Black</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000774</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708428</id>
+      <title>Pink</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000929</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11015708364</id>
+    <published>2017-06-14T11:47:08-04:00</published>
+    <updated>2017-06-14T11:47:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/kaweco-skyline-sport-mp"/>
+    <title>Kaweco Skyline Sport - Push Pencils</title>
+    <s:type>Pencil - Pencil, 0.7Mm</s:type>
+    <s:vendor>Kaweco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/kaweco_classic_skyline_whit_pn_1_web_white.jpg?v=1497456047"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kaweco<br>
+        <strong>Type: </strong>Pencil - Pencil, 0.7Mm<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><center></center></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sport Skyline</s:tag>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708364</id>
+      <title>White</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000941</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708364</id>
+      <title>Mint</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000775</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708364</id>
+      <title>Grey</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000776</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708364</id>
+      <title>Black</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000777</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708364</id>
+      <title>Pink</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000932</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708364</id>
+      <title>Macchiato</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10001171</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11015708300</id>
+    <published>2017-06-14T11:47:07-04:00</published>
+    <updated>2017-06-14T11:47:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/kaweco-skyline-sport-bp"/>
+    <title>Kaweco Skyline Sport - Ball Pens</title>
+    <s:type>Pen, Non-Fountain - Pen, Ballpoint</s:type>
+    <s:vendor>Kaweco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/kaweco_classic_skyline_whit_bp_1_web_white.jpg?v=1497456828"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kaweco<br>
+        <strong>Type: </strong>Pen, Non-Fountain - Pen, Ballpoint<br>
+        <strong>Price: </strong>
+            0.00 - 2.00
+            <a href="https://www.voreia.ca/products/kaweco-skyline-sport-bp">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><center></center></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sport Skyline</s:tag>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708300</id>
+      <title>Macchiato</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10001169</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708300</id>
+      <title>White</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000939</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708300</id>
+      <title>Pink</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000930</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708300</id>
+      <title>Mint</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000760</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708300</id>
+      <title>Grey</title>
+      <s:price currency="CAD">1.00</s:price>
+      <s:sku>KW-10000762</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708300</id>
+      <title>Black</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>KW-10000763</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+</feed>

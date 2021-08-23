@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.voreia.ca/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.voreia.ca/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="https://www.voreia.ca/blogs/news.atom"/>
+  <title>Voreia Industries Inc.  - News</title>
+  <updated>2018-04-26T14:33:00-04:00</updated>
+  <author>
+    <name>Voreia Industries Inc. </name>
+  </author>
+  <entry>
+    <id>https://www.voreia.ca/blogs/news/knightsbridge-shaving-products</id>
+    <published>2018-04-26T14:33:00-04:00</published>
+    <updated>2018-04-26T16:25:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/blogs/news/knightsbridge-shaving-products"/>
+    <title>Knightsbridge Shaving Products</title>
+    <author>
+      <name>David Cox</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>It's finally arrived, the hottest brand in classic shaving right now flying off the shelves. Contact sales today to discuss growing opportunities with this brand for select retailers. </p>
+<p>Consumers looking for information can also visit the retail storefront at: </p>
+<p><a href="https://knightsbridgeshaving.com/" target="_blank" title="Knightsbridge Shaving Co. Retail Webstore" rel="noopener noreferrer">https://knightsbridgeshaving.com/</a></p>
+<p><img src="//cdn.shopify.com/s/files/1/1698/1911/files/square_bag_sign_large.png?v=1524767579" alt="Knightsbridge Signature Collection "></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/blogs/news/see-a-behind-the-scenes-video-at-the-simpsons-shaving-brush-factory</id>
+    <published>2017-06-19T13:36:00-04:00</published>
+    <updated>2017-06-19T13:39:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/blogs/news/see-a-behind-the-scenes-video-at-the-simpsons-shaving-brush-factory"/>
+    <title>See a behind the scenes video at the Simpson&apos;s Shaving Brush Factory</title>
+    <author>
+      <name>David Cox</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>Simpsons has been making shaving brushes since they were founded in the east end of London, England in 1919. These shaving brushes are still made in the traditional way with no compromise for quality and excellence. The Chubby brushes are the most famous shaving brush ever produced and from the video below its easy to discover why. </p>
+<p><iframe src="https://player.vimeo.com/video/129042871" width="640" height="360" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe></p>
+<p><a href="/collections/simpsons-shaving-brushes">To see all our Simpsons Collection Please Click Here: </a></p>]]>
+    </content>
+  </entry>
+</feed>

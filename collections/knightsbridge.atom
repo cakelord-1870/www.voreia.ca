@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.voreia.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.voreia.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.voreia.ca/collections/knightsbridge.atom"/>
+  <title>Voreia Industries Inc. </title>
+  <updated>2018-02-05T22:39:30-05:00</updated>
+  <author>
+    <name>Voreia Industries Inc. </name>
+  </author>
+  <entry>
+    <id>https://www.voreia.ca/products/177135222796</id>
+    <published>2018-02-05T22:39:30-05:00</published>
+    <updated>2018-02-05T22:39:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/knightsbridge-preshv-oil-30g-bay-rum"/>
+    <title>Knightsbridge Pre-Shave Oil 30g - Bay Rum</title>
+    <s:type>Shaving Preparations - Pre-Shave Oil</s:type>
+    <s:vendor>Knightsbridge</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/Knightbridge_Oil_Rum_F.jpg?v=1517889036"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Knightsbridge<br>
+        <strong>Type: </strong>Shaving Preparations - Pre-Shave Oil<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Ingredients: </strong></p>
+<p>Ricinus Communis (Castor) Seed Oil, Helianthus Annuus (Sunflower) Seed<br>Oil, Olea Europaea (Olive) Fruit Oil, Parfum (Fragrance), Benzyl Benzoate,<br>Benzyl Salicylate, Coumarin, Eugenol, Limonene, Linalool,<br>Hydroxyisohexyl 3-Cyclohexene Carboxaldehyde.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/177135222796</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KB-02005</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/177135190028</id>
+    <published>2018-02-05T22:39:30-05:00</published>
+    <updated>2018-02-05T22:39:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/knightsbridge-preshv-oil-30g-aloe-water"/>
+    <title>Knightsbridge Pre-Shave Oil 30g - Aloe Water</title>
+    <s:type>Shaving Preparations - Pre-Shave Oil</s:type>
+    <s:vendor>Knightsbridge</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/Knightbridge_Oil_Aloe_F.jpg?v=1517888924"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Knightsbridge<br>
+        <strong>Type: </strong>Shaving Preparations - Pre-Shave Oil<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<p><strong>Ingredients: </strong></p>
+<p>Ricinus Communis (Castor) Seed Oil, Helianthus Annuus (Sunflower) Seed<br>Oil, Olea Europaea (Olive) Fruit Oil, Parfum (Fragrance), Glycine Soja<br>(Soyabean) Oil, Aloe Barbadensis (Aloe Vera) Leaf Extract, Butylphenyl<br>Methylpropional, Citral, Hydroxycitronellal, Limonene, Linalool.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/177135190028</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KB-02004</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/177135157260</id>
+    <published>2018-02-05T22:39:30-05:00</published>
+    <updated>2018-02-05T22:39:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/knightsbridge-preshv-oil-30g-signature"/>
+    <title>Knightsbridge Pre-Shave Oil 30g - Signature</title>
+    <s:type>Shaving Preparations - Pre-Shave Oil</s:type>
+    <s:vendor>Knightsbridge</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/Knightbridge_Oil_Signature_F.jpg?v=1517889242"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Knightsbridge<br>
+        <strong>Type: </strong>Shaving Preparations - Pre-Shave Oil<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Ingredients: </strong></p>
+<p>Ricinus Communis (Castor) Seed Oil, Helianthus Annuus (Sunflower) Seed<br>Oil, Olea Europaea (Olive) Fruit Oil, Parfum (Fragrance), Citronellol, Hexyl<br>Cinnamal, Hydroxycitronellal, Butylphenyl Methylpropional, Limonene,<br>Linalool.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/177135157260</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KB-02003</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/177135124492</id>
+    <published>2018-02-05T22:39:30-05:00</published>
+    <updated>2018-02-05T22:39:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/knightsbridge-preshv-oil-30g-bergamot"/>
+    <title>Knightsbridge Pre-Shave Oil 30g -Bergamot</title>
+    <s:type>Shaving Preparations - Pre-Shave Oil</s:type>
+    <s:vendor>Knightsbridge</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/Knightbridge_Oil_TBergamot_B.jpg?v=1517889117"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Knightsbridge<br>
+        <strong>Type: </strong>Shaving Preparations - Pre-Shave Oil<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Ingredients: </strong></p>
+<p>Ricinus Communis (Castor) Seed Oil, Helianthus Annuus (Sunflower) Seed<br>Oil, Olea Europaea (Olive) Fruit Oil, Parfum (Fragrance), Benzyl Benzoate,<br>Coumarin, Butylphenyl Methylpropional, Limonene, Linalool.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/177135124492</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KB-02002</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/177135091724</id>
+    <published>2018-02-05T22:39:29-05:00</published>
+    <updated>2018-02-05T22:39:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/knightsbridge-shav-crm-170g-charcoal"/>
+    <title>Knightsbridge Shaving Cream 170g - Charcoal</title>
+    <s:type>Shaving Preparations - Shaving Cream, Standard</s:type>
+    <s:vendor>Knightsbridge</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/Knightsbridge_Cream_Charcoal_O.jpg?v=1517889722"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Knightsbridge<br>
+        <strong>Type: </strong>Shaving Preparations - Shaving Cream, Standard<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Charcoal Shave Cream: </strong></p>
+<p>The woody heart of this fragrance is a blend of strong cedarwood and sea bleached sandalwood, livened with fruity floral notes and a hint of coffee. Creamy vanilla and patchouli warm from the base, balanced with sugary accords and musks. In addition to charcoal that helps remove dirt and toxins from the skin as you shave.</p>
+<p><strong>Fragrance Notes:</strong><br>Cedarwood - Sandalwood - Benzoin - Nagarmotha - Patchouli - Musk - Vanilla<br>Fruity - Coffee / Floral - Sugar Syrup</p>
+<p><strong>Ingredients: </strong><br>Aqua (Water), Stearic Acid, Myristic Acid, Potassium Hydroxide, Coconut Fatty Acid, Glycerin, Parfum (Fragrance), Triethanolamine, Sodium Hydroxide, Phenoxyethanol, Ethylhexylglycerin, Alpha Iso-Methyl Ionone.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/177135091724</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KB-01006</s:sku>
+      <s:grams>252</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/177135058956</id>
+    <published>2018-02-05T22:39:29-05:00</published>
+    <updated>2018-02-05T22:39:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/knightsbridge-shav-crm-170g-bay-rum"/>
+    <title>Knightsbridge Shaving Cream 170g - Bay Rum</title>
+    <s:type>Shaving Preparations - Shaving Cream, Standard</s:type>
+    <s:vendor>Knightsbridge</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/Knightsbridge_Cream_Rum_O.jpg?v=1517889317"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Knightsbridge<br>
+        <strong>Type: </strong>Shaving Preparations - Shaving Cream, Standard<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Bay Rum Shaving Cream:</strong></p>
+<p>With a heady Bay Rum scent marvelous blend of woody, spicy, and sugary scents, creating the perfect aromatic ambiance.Top notes of cinnamon and nutmeg intermingle with zesty citrus. White lily and basil leaves join rose petals and refreshing geranium to embrace the herbaceous accord. Patchouli and Bay rum mixed with hints of vanilla are perfect finishing accents to this masculine creation</p>
+<p><strong>Fragrance Contains Essential Oils of:<br></strong>Orange, Geranium, Nutmeg, Orange, Patchouli, Basil,<br>Lemon, Cinnamon<strong><br></strong></p>
+<p><strong>Fragrance Notes:<br></strong>T: BERGAMOT, ORANGE, and CINNAMON<br>M: ROSE, GERANIUM, BASIL, LILY<br>B: BAY RUM, PATCHOULI, VANILLA, MUSK</p>
+<p><strong></strong><strong>Ingredients:</strong></p>
+<p>Aqua (Water), Stearic Acid, Myristic Acid, Potassium Hydroxide, Coconut<br>Fatty Acid, Glycerin, Parfum (Fragrance), Triethanolamine, Sodium<br>Hydroxide, Phenoxyethanol, Ethylhexylglycerin, Benzyl Benzoate, Benzyl<br>Salicylate, Coumarin, Eugenol, Limonene, Linalool, Hydroxyisohexyl 3-<br>Cyclohexene Carboxaldehyde.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/177135058956</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KB-01005</s:sku>
+      <s:grams>252</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/177135026188</id>
+    <published>2018-02-05T22:39:29-05:00</published>
+    <updated>2018-02-05T22:39:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/knightsbridge-shav-crm-170g-aloe-water"/>
+    <title>Knightsbridge Shaving Cream 170g - Aloe Water</title>
+    <s:type>Shaving Preparations - Shaving Cream, Standard</s:type>
+    <s:vendor>Knightsbridge</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/Knightsbridge_Cream_Aloe_O.jpg?v=1517889802"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Knightsbridge<br>
+        <strong>Type: </strong>Shaving Preparations - Shaving Cream, Standard<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The natural fragrance from the Aloe Vera Leaf Juice (ALOE BARBADENSIS) is complemented by a subtle fragrance cocktail bursting to life with sour lemon and<br>neroli, lifted with lime blossom and petitgrain whilst warmed with petitgrain, all resting on soft powdery musks.</p>
+<p><strong>Fragrance Notes:</strong><br>Aloe - Petitgrain - Lily of the Valley - Lime Blossom - Neroli - Musk</p>
+<p><strong>Ingredients: </strong></p>
+<p>Aloe Barbadensis (Aloe Vera) Leaf Juice, Stearic Acid,<br>Myristic Acid,Potassium Hydroxide, Coconut Fatty Acid,<br>Glycerin, Parfum (Fragrance),Triethanolamine, Sodium<br>Hydroxide, Phenoxyethanol, Ethylhexylglycerin, Butylphenyl<br>Methylpropional, Citral, Hydroxycitronellal, Limonene,<br>Linalool.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/177135026188</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KB-01004</s:sku>
+      <s:grams>252</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/177134993420</id>
+    <published>2018-02-05T22:39:28-05:00</published>
+    <updated>2018-02-05T22:39:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/knightsbridge-shav-crm-170g-signature"/>
+    <title>Knightsbridge Shaving Cream 170g - Signature</title>
+    <s:type>Shaving Preparations - Shaving Cream, Standard</s:type>
+    <s:vendor>Knightsbridge</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/Knightsbridge_Cream_Signature_O.jpg?v=1517890117"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Knightsbridge<br>
+        <strong>Type: </strong>Shaving Preparations - Shaving Cream, Standard<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Signature Shaving Cream:</strong></p>
+<p>A masculine scent built around woody notes of cedar, patchouli and resins with the subtle aromatic freshness of vetiver and geranium. Top notes of citrus and pink<br>pepper add vivacity and sparkle</p>
+<p><strong>Fragrance Contains Essential Oils of:</strong><br>Cedar, Bergamot, Lemon, Patchouli, Vetivert</p>
+<p><strong>INGREDIENTS:</strong><br>Aqua (Water), Stearic Acid, Myristic Acid, Potassium<br>Hydroxide, Coconut Fatty Acid, Glycerin, Parfum<br>(Fragrance), Triethanolamine, Sodium Hydroxide, Phenoxyethanol,<br>Ethylhexylglycerin, Citronellol, Hexyl<br>Cinnamal, Hydroxycitronellal, Butylphenyl Methylpropional,<br>Limonene, Linalool.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/177134993420</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KB-01003</s:sku>
+      <s:grams>252</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/177134960652</id>
+    <published>2018-02-05T22:39:28-05:00</published>
+    <updated>2018-02-05T22:39:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/knightsbridge-shav-crm-170g-bergamot"/>
+    <title>Knightsbridge Shaving Cream 170g - Bergamot</title>
+    <s:type>Shaving Preparations - Shaving Cream, Standard</s:type>
+    <s:vendor>Knightsbridge</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/Knightsbridge_Cream_Bergamot_O.jpg?v=1517890178"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Knightsbridge<br>
+        <strong>Type: </strong>Shaving Preparations - Shaving Cream, Standard<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Bergamot Shaving Cream:</strong></p>
+<p>A refreshing combination of bergamot and amber with<br>complementing notes of cooling eucalyptus, patchouli<br>and clove.</p>
+<p>Fragrance Contains Essential Oils of:<br>Bergamot, Lemon, Eucalyptus, Patchouli, Clove</p>
+<p><strong>Fragrance Notes:</strong><br>T: BERGAMOT, LEMON<br>M: EUCALYPTUSB: AMBER, PATCHOULI</p>
+<p><strong>INGREDIENTS:</strong><br>Aqua (Water), Stearic Acid, Myristic Acid, Potassium<br>Hydroxide, Coconut Fatty Acid, Glycerin, Parfum<br>(Fragrance), Triethanolamine, Sodium Hydroxide, Phenoxyethanol,<br>Ethylhexylglycerin, Benzyl Benzoate, Coumarin,<br>Butylphenyl Methylpropional, Limonene, Linalool</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/177134960652</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KB-01002</s:sku>
+      <s:grams>252</s:grams>
+    </s:variant>
+  </entry>
+</feed>

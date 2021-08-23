@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.voreia.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.voreia.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.voreia.ca/collections/baume-be.atom"/>
+  <title>Voreia Industries Inc. </title>
+  <updated>2017-01-31T14:51:00-05:00</updated>
+  <author>
+    <name>Voreia Industries Inc. </name>
+  </author>
+  <entry>
+    <id>https://www.voreia.ca/products/9556953996</id>
+    <published>2017-01-31T14:51:00-05:00</published>
+    <updated>2017-01-31T14:51:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/baume-be-refill-shaving-soap-125-grams"/>
+    <title>BAUME.BE - Refill Shaving Soap 125 grams</title>
+    <s:type>Shaving Preparations - Shaving Soap [Hard]</s:type>
+    <s:vendor>Baume.be</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/BE-SS125_ShavingSoap_135gr_S2.jpg?v=1487880539"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Baume.be<br>
+        <strong>Type: </strong>Shaving Preparations - Shaving Soap [Hard]<br>
+        <strong>Price: </strong>
+            15.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="margin: 0cm 0cm 8pt;"><span style="font-size: 11.5pt; line-height: 107%; font-family: 'Helvetica',sans-serif;">The Shaving Soap refill fits perfectly in your Baume.Be Ceramic Bowl. The Shaving Soap has been designed and formulated with the same principles as the remainder of the line: all natural, paraben free ingredients. Baume.Be Shaving Soap will create a thick, luxurious lather which will hydrate and nourish your skin as you shave. </span></p>
+<p style="margin: 0cm 0cm 8pt;"><span style="font-size: 11.5pt; line-height: 107%; font-family: 'Helvetica',sans-serif;">The Shaving Soap is comprised of Shea butter, vitamin E, glycerin and carrot oil to help reduce and eliminate razor burn. </span></p>
+<p style="margin: 0cm 0cm 8pt;"><span style="font-size: 11.5pt; line-height: 107%; font-family: 'Helvetica',sans-serif;">125g Refill </span></p>
+<p style="margin: 0cm 0cm 8pt;"><span style="font-size: 11.5pt; line-height: 107%; font-family: 'Helvetica',sans-serif;">Made in Belgium </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9556953996</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.50</s:price>
+      <s:sku>BE-SS125</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9556888780</id>
+    <published>2017-01-31T14:31:00-05:00</published>
+    <updated>2017-01-31T14:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/baume-be-shaving-cream-200-ml"/>
+    <title>BAUME.BE - Shaving Cream 200 ml</title>
+    <s:type>Shaving Preparations - Shaving Cream, Standard</s:type>
+    <s:vendor>Baume.be</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/BE-SC200_ShavingCream_200ml_open.jpg?v=1487880586"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Baume.be<br>
+        <strong>Type: </strong>Shaving Preparations - Shaving Cream, Standard<br>
+        <strong>Price: </strong>
+            30.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Baume.Be Shaving Cream is a luxurious cream designed and formulated for intense lubrication and lathering capabilities. This shaving cream will provide protection while you shave, leaving your skin feeling smooth without irritation. Like all Baume.Be products, their Shaving Cream is paraben free and made of natural ingredients.</p>
+<p>Baume.Be is the only full shaving line devoted to sensitive skin. All Baume.Be products have been designed and formulated to work for all skin types but specifically those who suffer from sensitivity to the other grooming products available today.</p>
+<p>Paraben Free</p>
+<p>200ml Black Glass Tub</p>
+<p>Made in Belgium</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9556888780</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.80</s:price>
+      <s:sku>BE-SC200</s:sku>
+      <s:grams>402</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9556609484</id>
+    <published>2017-01-31T13:59:00-05:00</published>
+    <updated>2017-01-31T13:59:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/baume-be-pre-shave-gel-50-ml"/>
+    <title>BAUME.BE - Pre Shave Gel 50 ml</title>
+    <s:type>Shaving Preparations - Pre-Shave Gel/Balm/Cream</s:type>
+    <s:vendor>Baume.be</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/BE-PS50_PreshaveGel_50ml_open.jpg?v=1487880466"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Baume.be<br>
+        <strong>Type: </strong>Shaving Preparations - Pre-Shave Gel/Balm/Cream<br>
+        <strong>Price: </strong>
+            25.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Every shave should start with a Pre Shave. Baume.Be offers an excellently formulated Pre Shave Gel to soften and lift the hairs away from the face preparing your skin for razor contact. With a noticeable invigorating cooling effect as you apply, the Pre Shave Gel by Baume.Be will nourish and hydrate your skin before shaving and reduce irritation caused by razors.</p>
+<p>Baume.Be Pre Shave Gel is formulated with natural ingredients such as Vitamin E and carrot oil for superior performance and lightly scented to start your day off fresh.</p>
+<p>Baume.Be is the only full shaving line devoted to sensitive skin. All Baume.Be products have been designed and formulated to work for all skin types but specifically those who suffer from sensitivity to the other grooming products available today.</p>
+<p>Paraben Free</p>
+<p>50ml Black Glass Tub</p>
+<p>Made in Belgium</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9556609484</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.30</s:price>
+      <s:sku>BE-PS50</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9556461196</id>
+    <published>2017-01-31T13:12:00-05:00</published>
+    <updated>2017-01-31T13:12:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/baume-be-shaving-soap-ceramic-container"/>
+    <title>BAUME.BE - Shaving Soap in Ceramic Container</title>
+    <s:type>Shaving Preparations - Shaving Soap [Hard]</s:type>
+    <s:vendor>Baume.be</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/BE-CJ_ShavingSoapBowl_135gr_open.jpg?v=1487880655"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Baume.be<br>
+        <strong>Type: </strong>Shaving Preparations - Shaving Soap [Hard]<br>
+        <strong>Price: </strong>
+            42.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="margin: 0cm 0cm 8pt;"><span style="font-size: 11.5pt; line-height: 107%; font-family: 'Helvetica',sans-serif;">The Shaving Soap in a Ceramic Bowl by Baume.Be is a fantastic, hydrating shaving soap within a beautiful ceramic bowl. The Shaving Soap has been designed and formulated with the same principles as the remainder of the line: all natural, paraben free ingredients. Baume.Be Shaving Soap will create a thick, luxurious lather which will hydrate and nourish your skin as you shave. </span></p>
+<p style="margin: 0cm 0cm 8pt;"><span style="font-size: 11.5pt; line-height: 107%; font-family: 'Helvetica',sans-serif;">The Shaving Soap is comprised of Shea butter, vitamin E, glycerin and carrot oil to help reduce and eliminate razor burn. </span></p>
+<p style="margin: 0cm 0cm 8pt;"><span style="font-size: 11.5pt; line-height: 107%; font-family: 'Helvetica',sans-serif;">Baume.Be is the only full shaving line devoted to sensitive skin. All Baume.Be products have been designed and formulated to work for all skin types but specifically for those who suffer from sensitivity to the other grooming products available today.</span></p>
+<p style="margin: 0cm 0cm 8pt;"><span style="font-size: 11.5pt; line-height: 107%; font-family: 'Helvetica',sans-serif;">125g Soap Insert in a Black Ceramic Bowl</span></p>
+<p style="margin: 0cm 0cm 8pt;"><span style="font-size: 11.5pt; line-height: 107%; font-family: 'Helvetica',sans-serif;">Made in Belgium </span></p>
+<p style="margin: 0cm 0cm 8pt;"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9556461196</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.70</s:price>
+      <s:sku>BE-CJ</s:sku>
+      <s:grams>430</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9555647564</id>
+    <published>2017-01-31T10:35:00-05:00</published>
+    <updated>2017-01-31T10:35:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/baume-be-aftershave-balm-100-ml"/>
+    <title>BAUME.BE - Aftershave Balm 100 ml</title>
+    <s:type>Shaving Preparations - Aftershave Gel/Balm/Cream</s:type>
+    <s:vendor>Baume.be</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/BE-AB100_AftershaveBalm_100ml_S2.jpg?v=1488405379"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Baume.be<br>
+        <strong>Type: </strong>Shaving Preparations - Aftershave Gel/Balm/Cream<br>
+        <strong>Price: </strong>
+            37.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Aftershave Balm has a subtle fragrance which has been formulated using a unique combination of ingredients which are alcohol-free and natural. The Aftershave Balm is enhanced with essential oils which will moisturize and sooth your skin after you shave. You will notice a calming effect after application which will sooth razor burn and keep your skin nourished all day.</p>
+<p>Baume.Be is the only full shaving line devoted to sensitive skin. All Baume.Be products have been designed and formulated to work for all skin types but specifically those who suffer from sensitivity to the other grooming products available today.</p>
+<p>The Aftershave Balm is paraben and alcohol free.</p>
+<p>100ml Black Glass Bottle</p>
+<p>Made in Belgium</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9555647564</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.30</s:price>
+      <s:sku>BE-AB100</s:sku>
+      <s:grams>270</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.voreia.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.voreia.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.voreia.ca/collections/pens-rollerball.atom"/>
+  <title>Voreia Industries Inc. </title>
+  <updated>2017-06-18T02:08:16-04:00</updated>
+  <author>
+    <name>Voreia Industries Inc. </name>
+  </author>
+  <entry>
+    <id>https://www.voreia.ca/products/11044204940</id>
+    <published>2017-06-18T02:08:16-04:00</published>
+    <updated>2017-06-18T02:08:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/kaweco-student-rb"/>
+    <title>Kaweco Student - Roller Ball</title>
+    <s:type>Pen, Non-Fountain - Pen, Rollerball</s:type>
+    <s:vendor>Kaweco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kaweco<br>
+        <strong>Type: </strong>Pen, Non-Fountain - Pen, Rollerball<br>
+        <strong>Price: </strong>
+            61.00 - 66.00
+            <a href="https://www.voreia.ca/products/kaweco-student-rb">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><center></center></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Student</s:tag>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11044204940</id>
+      <title>White</title>
+      <s:price currency="CAD">61.00</s:price>
+      <s:sku>KW-10000549</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11044204940</id>
+      <title>Black</title>
+      <s:price currency="CAD">62.00</s:price>
+      <s:sku>KW-10000547</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11044204940</id>
+      <title>Red</title>
+      <s:price currency="CAD">63.00</s:price>
+      <s:sku>KW-10000550</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11044204940</id>
+      <title>Vintage Blue</title>
+      <s:price currency="CAD">64.00</s:price>
+      <s:sku>KW-10000791</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11044204940</id>
+      <title>Yellow</title>
+      <s:price currency="CAD">65.00</s:price>
+      <s:sku>KW-10000792</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11044204940</id>
+      <title>Transparent</title>
+      <s:price currency="CAD">66.00</s:price>
+      <s:sku>KW-10001192</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11032341836</id>
+    <published>2017-06-16T09:39:38-04:00</published>
+    <updated>2017-06-16T09:39:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/kaweco-alsportfp-rb"/>
+    <title>Kaweco AL Sport - Roller Ball</title>
+    <s:type>Pen, Non-Fountain - Pen, Rollerball</s:type>
+    <s:vendor>Kaweco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/kaweco_al_sport_ant_gr_web_white.jpg?v=1497621305"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kaweco<br>
+        <strong>Type: </strong>Pen, Non-Fountain - Pen, Rollerball<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><center></center></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ALSport</s:tag>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341836</id>
+      <title>Grey</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000715</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341836</id>
+      <title>Black</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000713</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341836</id>
+      <title>Stonewashed Black</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000717</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341836</id>
+      <title>Stonewashed Blue</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000718</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341836</id>
+      <title>Silver</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000716</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341836</id>
+      <title>Raw</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000665</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11032341836</id>
+      <title>Light Blue</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10001202</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11028541772</id>
+    <published>2017-06-15T23:47:58-04:00</published>
+    <updated>2017-06-15T23:47:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/kaweco-classic-dia2-rb"/>
+    <title>Kaweco Dia2 - Roller Ball</title>
+    <s:type>Pen, Non-Fountain - Pen, Rollerball</s:type>
+    <s:vendor>Kaweco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/kaweco_dia2_chr_rb_web_white.jpg?v=1497585459"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kaweco<br>
+        <strong>Type: </strong>Pen, Non-Fountain - Pen, Rollerball<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><center></center></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DIA2</s:tag>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11028541772</id>
+      <title>Chrome</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000566</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11028541772</id>
+      <title>Gold</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000567</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11016855372</id>
+    <published>2017-06-14T13:54:55-04:00</published>
+    <updated>2017-06-14T13:54:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/kaweco-elite-rb"/>
+    <title>Kaweco Elite - Rollerball</title>
+    <s:type>Pen, Non-Fountain - Pen, Rollerball</s:type>
+    <s:vendor>Kaweco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/kaweco_elite_chr_rb_web_white.jpg?v=1497579613"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kaweco<br>
+        <strong>Type: </strong>Pen, Non-Fountain - Pen, Rollerball<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><center></center></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Elite</s:tag>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11016855372</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000176</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11016854924</id>
+    <published>2017-06-14T13:54:53-04:00</published>
+    <updated>2017-06-14T13:54:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/kaweco-brass-sport-rb"/>
+    <title>Kaweco Brass Sport - Rollerball</title>
+    <s:type>Pen, Non-Fountain - Pen, Rollerball</s:type>
+    <s:vendor>Kaweco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/kaweco_brass_sport_rb_web_white.jpg?v=1497580259"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kaweco<br>
+        <strong>Type: </strong>Pen, Non-Fountain - Pen, Rollerball<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><center></center></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brass Sport</s:tag>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11016854924</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000921</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11016854348</id>
+    <published>2017-06-14T13:54:51-04:00</published>
+    <updated>2017-06-14T13:54:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/kaweco-steel-sport-rb"/>
+    <title>Kaweco Steel Sport - Rollerball</title>
+    <s:type>Pen, Non-Fountain - Pen, Rollerball</s:type>
+    <s:vendor>Kaweco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/kaweco_steel_sport_rb_web_white.jpg?v=1497580433"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kaweco<br>
+        <strong>Type: </strong>Pen, Non-Fountain - Pen, Rollerball<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><center></center></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Steel Sport</s:tag>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11016854348</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10001403</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11015708428</id>
+    <published>2017-06-14T11:47:09-04:00</published>
+    <updated>2017-06-14T11:47:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/kaweco-skyline-sport-rb"/>
+    <title>Kaweco Skyline Sport - Rollerball</title>
+    <s:type>Pen, Non-Fountain - Pen, Rollerball</s:type>
+    <s:vendor>Kaweco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/kaweco_classic_skyline_whit_rb_1_web_white.jpg?v=1497456272"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kaweco<br>
+        <strong>Type: </strong>Pen, Non-Fountain - Pen, Rollerball<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><center></center></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sport Skyline</s:tag>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708428</id>
+      <title>White</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000938</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708428</id>
+      <title>Mint</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000773</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708428</id>
+      <title>Grey</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000772</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708428</id>
+      <title>Macchiato</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10001168</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708428</id>
+      <title>Black</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000774</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015708428</id>
+      <title>Pink</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000929</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11015456204</id>
+    <published>2017-06-14T10:42:01-04:00</published>
+    <updated>2017-06-14T10:42:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/kaweco-classic-sport-rb"/>
+    <title>Kaweco Classic Sport - Rollerball</title>
+    <s:type>Pen, Non-Fountain - Pen, Rollerball</s:type>
+    <s:vendor>Kaweco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/kaweco_classic_bordeaux_cr_web_white.jpg?v=1497452936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kaweco<br>
+        <strong>Type: </strong>Pen, Non-Fountain - Pen, Rollerball<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><center></center></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sport Classic</s:tag>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015456204</id>
+      <title>Bordeaux</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000496</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015456204</id>
+      <title>White</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000034</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015456204</id>
+      <title>Green</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000497</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015456204</id>
+      <title>Transparent</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000035</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015456204</id>
+      <title>Black</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000032</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015456204</id>
+      <title>Red</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10001150</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015456204</id>
+      <title>Guilloch Black</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000807</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11015456204</id>
+      <title>Chess Black</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000825</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/11009524556</id>
+    <published>2017-06-13T14:14:02-04:00</published>
+    <updated>2017-06-13T14:14:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/kaweco-ice-sport-rollerballs"/>
+    <title>Kaweco Ice Sport - Rollerballs</title>
+    <s:type>Pen, Non-Fountain - Pen, Rollerball</s:type>
+    <s:vendor>Kaweco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/kaweco_ice_bla_ir_web_white.jpg?v=1497393634"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kaweco<br>
+        <strong>Type: </strong>Pen, Non-Fountain - Pen, Rollerball<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Info:</h3>
+<p><span>Pocket rollerball in signature Kaweco Sport styling. Easy to use with no ink dry out. Length of closed version 10.5 cm and open version 13.5 cm. With and without clip.</span></p>
+<p><span>Made in Germany <img src="https://cdn.shopify.com/s/files/1/1698/1911/files/flag-german_1.gif?v=1497271499" alt=""></span></p>
+<h3><span>Other Models &amp; Links for This Series: </span></h3>
+<ul>
+<li><a href="https://www.voreia.ca/collections/kaweco-ice-sport-pens">Ice Sport Series -- Quick Order Sheet</a></li>
+<li><a href="https://www.voreia.ca/collections/kaweco-ice-sport-pens/products/kaweco-ice-sport">Ice Sport Fountain Pens</a></li>
+<li><a href="https://www.voreia.ca/collections/kaweco-ice-sport-pens/products/kaweco-ice-sport-ball-pens">Ice Sport Ballpens </a></li>
+<li>
+<a href="https://www.voreia.ca/collections/kaweco-ice-sport-pens/products/kaweco-ice-sport-rollerballs">Ice Sport Rollerballs</a> </li>
+<li><a href="https://www.voreia.ca/collections/kaweco-ice-sport-pens/products/kaweco-ice-sport-push-pencils">Ice Sport Push Pencil 0.7mm</a></li>
+<li><a href="https://www.voreia.ca/collections/kaweco-ice-sport-pens/products/kaweco-ice-sport-clutch-pencils">Ice Sport Clutch Pencil 3.2mm</a></li>
+</ul>
+<h3>History:</h3>
+<p>Translucent stands for the idea to make the invisible visible. As early as the twenties Kaweco representatives were already equipped with a writing instrument cross section pen model. These cross section models were made by cutting serial products in half in order to make the interior mechanisms more visible. However, this process became unnecessary in the fifties through the further development of the injection molding technique. Translucent models were produced.</p>
+<p><br>The Kaweco ICE Sport has the same characteristics and comes in a colorful variety.</p>
+<p> </p>
+<p><img src="https://cdn.shopify.com/s/files/1/1698/1911/files/Ice_Sport_large.png?v=1497377730" alt=""></p>
+<p><img src="https://cdn.shopify.com/s/files/1/1698/1911/files/Cardboard_Packing_compact.png?v=1497403344" alt=""></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ice Sport</s:tag>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11009524556</id>
+      <title>Black</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10001159</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11009524556</id>
+      <title>Blue</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000084</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11009524556</id>
+      <title>Yellow</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000581</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11009524556</id>
+      <title>Orange</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000086</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11009524556</id>
+      <title>Red</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000085</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11009524556</id>
+      <title>Pink</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10000582</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

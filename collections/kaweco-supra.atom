@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.voreia.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.voreia.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.voreia.ca/collections/kaweco-supra.atom"/>
+  <title>Voreia Industries Inc. </title>
+  <updated>2017-06-14T13:54:56-04:00</updated>
+  <author>
+    <name>Voreia Industries Inc. </name>
+  </author>
+  <entry>
+    <id>https://www.voreia.ca/products/11016855564</id>
+    <published>2017-06-14T13:54:56-04:00</published>
+    <updated>2017-06-14T13:54:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/kaweco-supra-fp"/>
+    <title>Kaweco Supra - Fountain Pens</title>
+    <s:type>Pen, Fountain</s:type>
+    <s:vendor>Kaweco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/kaweco_supra_fp_web_white.jpg?v=1497474879"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kaweco<br>
+        <strong>Type: </strong>Pen, Fountain<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><center></center>
+<center><span>Take Notice of this extraordinary innovative pen, decked with a 250 Kaweco nib and of all standard sizes EF / F / M / B / BB available. </span></center>
+<center><span></span></center>
+<center><span></span></center>
+<p> </p>
+<center><span>The trick to this pen is that there is a connecting piece included that extends the fountain pen by 3 cm. This gives you the option to use it as a pocket sized pen or extend it to a full length pen. Another exciting thing about this is, that you can totally notice the weight difference. In the long configuration you can also hold 2 standard size ink cartridges and use the long converter as well.</span></center>
+<center><span></span></center>
+<center><span></span></center>
+<p> </p>
+<center><span>The SUPRA is made of pure eco brass, which means that it is <strong>lead-free. </strong>Each piece is subject to quality control and is assembled by hand. Try this massive Brass CNC turned wonder today. </span></center>
+<center><span><strong></strong></span></center>
+<p> </p>
+<p>Measurements (closed/ open mounted cap)<strong>:</strong> <span>130 / 165 mm</span></p>
+<p>Nib Type: Stainless Steel EF / F / M / B / BB </p>
+<p> </p>
+<center><span><strong><a href="https://www.voreia.ca/collections/kaweco-supra">Kaweco Supra -- Quick Order Sheet</a></strong></span></center>
+<center><span><strong></strong></span></center>
+<p> </p>
+<ul>
+<li style="text-align: left;">KW-10001001 - Kaweco - SUPRA FP - EF</li>
+<li style="text-align: left;">KW-10001002 - Kaweco - SUPRA FP - F</li>
+<li style="text-align: left;">KW-10001003 - Kaweco - SUPRA FP - M</li>
+<li style="text-align: left;">KW-10001004 - Kaweco - SUPRA FP - B</li>
+<li style="text-align: left;">KW-10001005 - Kaweco - SUPRA FP - BB</li>
+</ul>
+<center><span><strong> </strong></span></center>
+<center></center>
+<center>
+<table width="100%">
+<tbody>
+<tr>
+<td style="width: 59.5161%;">
+<p> </p>
+<h3>History</h3>
+<p><br>The Kaweco SUPRA is the big brother of the LILIPUT and a quick-change artist. The well-known ECO brass (brass manufactured by the Wieland Werke in Ulm) is lead-free. As usual brass will become tarnished when in use and develop an individual patina over time.</p>
+<p><br>There are several possibilities to screw this pen together, for example the short version without cap and connecting piece, or the long version with connecting piece and cap. Therefore this fountain pen's weight and length can be adjusted to meet the individual needs of its user. The minimalistic design is reminiscent of Bauhaus and Braun.</p>
+<p>Image Right: Quality check of the nibs, one at the time </p>
+<p> </p>
+<p> </p>
+</td>
+<td style="width: 38.2258%;"> <img src="//cdn.shopify.com/s/files/1/1698/1911/files/kaweco_quality_check_large.png?v=1497463414" alt="" style="display: block; margin-left: auto; margin-right: auto;">
+</td>
+</tr>
+</tbody>
+</table>
+</center></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Supra</s:tag>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11016855564</id>
+      <title>Extra Fine</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10001001</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11016855564</id>
+      <title>Fine</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10001002</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11016855564</id>
+      <title>Medium</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10001003</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11016855564</id>
+      <title>Broad</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10001004</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11016855564</id>
+      <title>Double Broad</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>KW-10001005</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+</feed>

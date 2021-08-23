@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.voreia.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.voreia.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.voreia.ca/collections/pre-shave.atom"/>
+  <title>Voreia Industries Inc. </title>
+  <updated>2017-02-23T15:50:00-05:00</updated>
+  <author>
+    <name>Voreia Industries Inc. </name>
+  </author>
+  <entry>
+    <id>https://www.voreia.ca/products/9768114700</id>
+    <published>2017-02-23T15:50:00-05:00</published>
+    <updated>2017-02-23T15:50:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/cf-preshave-150ml-unscented"/>
+    <title>CF Preshave 150ml - Unscented</title>
+    <s:type>Shaving Preparations - Pre-Shave Gel/Balm/Cream</s:type>
+    <s:vendor>Castle Forbes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/CF_03074_PreShave_S2.jpg?v=1487884371"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Castle Forbes<br>
+        <strong>Type: </strong>Shaving Preparations - Pre-Shave Gel/Balm/Cream<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Castle Forbes Pre-shave is a uniquely water based unscented treatment for your beard. This product supports the first step in your daily shave process, pre-shave, shave and aftershave moisturizing.  Start your shave right with the Castle Forbes pre-shave in a convenient 150 ml format.<br>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9768114700</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>CF-03074</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9556609484</id>
+    <published>2017-01-31T13:59:00-05:00</published>
+    <updated>2017-01-31T13:59:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/baume-be-pre-shave-gel-50-ml"/>
+    <title>BAUME.BE - Pre Shave Gel 50 ml</title>
+    <s:type>Shaving Preparations - Pre-Shave Gel/Balm/Cream</s:type>
+    <s:vendor>Baume.be</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/BE-PS50_PreshaveGel_50ml_open.jpg?v=1487880466"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Baume.be<br>
+        <strong>Type: </strong>Shaving Preparations - Pre-Shave Gel/Balm/Cream<br>
+        <strong>Price: </strong>
+            25.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Every shave should start with a Pre Shave. Baume.Be offers an excellently formulated Pre Shave Gel to soften and lift the hairs away from the face preparing your skin for razor contact. With a noticeable invigorating cooling effect as you apply, the Pre Shave Gel by Baume.Be will nourish and hydrate your skin before shaving and reduce irritation caused by razors.</p>
+<p>Baume.Be Pre Shave Gel is formulated with natural ingredients such as Vitamin E and carrot oil for superior performance and lightly scented to start your day off fresh.</p>
+<p>Baume.Be is the only full shaving line devoted to sensitive skin. All Baume.Be products have been designed and formulated to work for all skin types but specifically those who suffer from sensitivity to the other grooming products available today.</p>
+<p>Paraben Free</p>
+<p>50ml Black Glass Tub</p>
+<p>Made in Belgium</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9556609484</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.30</s:price>
+      <s:sku>BE-PS50</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+  </entry>
+</feed>

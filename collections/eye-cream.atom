@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.voreia.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.voreia.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.voreia.ca/collections/eye-cream.atom"/>
+  <title>Voreia Industries Inc. </title>
+  <updated>2017-06-13T10:20:22-04:00</updated>
+  <author>
+    <name>Voreia Industries Inc. </name>
+  </author>
+  <entry>
+    <id>https://www.voreia.ca/products/11006107148</id>
+    <published>2017-06-13T10:20:22-04:00</published>
+    <updated>2017-06-13T10:20:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/e-shave-eye-cream-15g-white-tea"/>
+    <title>eShave Eye Cream 15g - White Tea</title>
+    <s:type>Skin Care - Eye Creams</s:type>
+    <s:vendor>eShave</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/eye_cream.jpg?v=1497364801"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>eShave<br>
+        <strong>Type: </strong>Skin Care - Eye Creams<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/11006107148</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>ES-92009</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9769360652</id>
+    <published>2017-02-23T18:55:00-05:00</published>
+    <updated>2017-02-23T18:55:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/daimon-barber-eye-cream-15ml"/>
+    <title>Daimon Barber Eye Cream 15ml</title>
+    <s:type>Skin Care - Eye Creams</s:type>
+    <s:vendor>Daimon Barber</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/DB-ECR15-01_EyeCream_40535_S2.jpg?v=1487894706"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Daimon Barber<br>
+        <strong>Type: </strong>Skin Care - Eye Creams<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This contouring cream with "Beautifeye" activeve lifts and firms the look of skin around the eyes. This cream reduces capillary leakages and accumulation of pigments responsible for uneven coloration and a tired appearance. Enhanced formulation with unique oils to provides lasting moisture without an oily residue. This product is free from parabens and other nasty chemicals.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769360652</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>DB-ECR15-01</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+</feed>

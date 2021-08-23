@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.voreia.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.voreia.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.voreia.ca/collections/scaramouche-fandango-1.atom"/>
+  <title>Voreia Industries Inc. </title>
+  <updated>2017-02-23T19:39:30-05:00</updated>
+  <author>
+    <name>Voreia Industries Inc. </name>
+  </author>
+  <entry>
+    <id>https://www.voreia.ca/products/9769572812</id>
+    <published>2017-02-23T19:39:30-05:00</published>
+    <updated>2017-02-23T19:39:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/s-f-sports-wash-bag"/>
+    <title>S&amp;F - Sports Wash Bag</title>
+    <s:type>Gift Packs &amp; Sets - Dopp Kits</s:type>
+    <s:vendor>Scaramouche &amp; Fandango</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/SF-WB_sportwashbag_F.jpg?v=1487898090"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Scaramouche &amp; Fandango<br>
+        <strong>Type: </strong>Gift Packs &amp; Sets - Dopp Kits<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769572812</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>SF-WB</s:sku>
+      <s:grams>93</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9769572684</id>
+    <published>2017-02-23T19:39:29-05:00</published>
+    <updated>2017-02-23T19:39:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/s-f-shampoo-50ml"/>
+    <title>S&amp;F - Shampoo - 50ml</title>
+    <s:type>Hair Care - Shampoo</s:type>
+    <s:vendor>Scaramouche &amp; Fandango</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/SF-SH50MT_shampoo-50ml_F.jpg?v=1487899628"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Scaramouche &amp; Fandango<br>
+        <strong>Type: </strong>Hair Care - Shampoo<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769572684</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>SF-SH50MT</s:sku>
+      <s:grams>63</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9769572620</id>
+    <published>2017-02-23T19:39:29-05:00</published>
+    <updated>2017-02-23T19:39:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/s-f-shampoo-200ml"/>
+    <title>S&amp;F - Shampoo - 200ml</title>
+    <s:type>Hair Care - Shampoo</s:type>
+    <s:vendor>Scaramouche &amp; Fandango</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/SF-SH200MT_shampoo-200ml_F.jpg?v=1487899489"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Scaramouche &amp; Fandango<br>
+        <strong>Type: </strong>Hair Care - Shampoo<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769572620</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>SF-SH200MT</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9769572556</id>
+    <published>2017-02-23T19:39:28-05:00</published>
+    <updated>2017-02-23T19:39:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/s-f-shave-cream-50ml"/>
+    <title>S&amp;F - Shave Cream - 50ml</title>
+    <s:type>Shaving Preparations - Shaving Cream, Travel</s:type>
+    <s:vendor>Scaramouche &amp; Fandango</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/SF-SC50MT_shavecream_50ml_F.jpg?v=1487899546"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Scaramouche &amp; Fandango<br>
+        <strong>Type: </strong>Shaving Preparations - Shaving Cream, Travel<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769572556</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>SF-SC50MT</s:sku>
+      <s:grams>63</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9769572428</id>
+    <published>2017-02-23T19:39:28-05:00</published>
+    <updated>2017-02-23T19:39:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/s-f-shave-cream-100ml"/>
+    <title>S&amp;F - Shave Cream - 100ml</title>
+    <s:type>Shaving Preparations - Shaving Cream, Standard</s:type>
+    <s:vendor>Scaramouche &amp; Fandango</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/SF-SC100MT_shavecream-100ml_F.jpg?v=1487899583"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Scaramouche &amp; Fandango<br>
+        <strong>Type: </strong>Shaving Preparations - Shaving Cream, Standard<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769572428</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>SF-SC100MT</s:sku>
+      <s:grams>118</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9769572364</id>
+    <published>2017-02-23T19:39:27-05:00</published>
+    <updated>2017-02-23T19:39:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/s-f-shaving-brush-synthetic"/>
+    <title>S&amp;F - Shaving Brush (Synthetic)</title>
+    <s:type>Shaving Brushes - Synthetic</s:type>
+    <s:vendor>Scaramouche &amp; Fandango</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/SF-SB-SYN_shavingbrush_F.jpg?v=1487899055"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Scaramouche &amp; Fandango<br>
+        <strong>Type: </strong>Shaving Brushes - Synthetic<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769572364</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>SF-SB-SYN</s:sku>
+      <s:grams>208</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9769572300</id>
+    <published>2017-02-23T19:39:27-05:00</published>
+    <updated>2017-02-23T19:39:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/s-f-hydrator-50ml"/>
+    <title>S&amp;F - Hydrator - 50ml</title>
+    <s:type>Skin Care - Skin Toners</s:type>
+    <s:vendor>Scaramouche &amp; Fandango</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/SF-HY100MT_hydrator-50ml_F.jpg?v=1487899702"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Scaramouche &amp; Fandango<br>
+        <strong>Type: </strong>Skin Care - Skin Toners<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769572300</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>SF-HY50MT</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9769572236</id>
+    <published>2017-02-23T19:39:27-05:00</published>
+    <updated>2017-02-23T19:39:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/s-f-hydrator-100ml"/>
+    <title>S&amp;F - Hydrator - 100ml</title>
+    <s:type>Skin Care - Skin Toners</s:type>
+    <s:vendor>Scaramouche &amp; Fandango</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/SF-HY50MT_hydrator-100ml_F.jpg?v=1487898975"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Scaramouche &amp; Fandango<br>
+        <strong>Type: </strong>Skin Care - Skin Toners<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769572236</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>SF-HY100MT</s:sku>
+      <s:grams>117</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9769572108</id>
+    <published>2017-02-23T19:39:26-05:00</published>
+    <updated>2017-02-23T19:39:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/s-f-hair-cream-85ml"/>
+    <title>S&amp;F - Hair Cream 85ml</title>
+    <s:type>Styling Products - Hair Cream</s:type>
+    <s:vendor>Scaramouche &amp; Fandango</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/SF-HCM85ML_haircream_85ml_open.jpg?v=1487899176"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Scaramouche &amp; Fandango<br>
+        <strong>Type: </strong>Styling Products - Hair Cream<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769572108</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>SF-HCM85ML</s:sku>
+      <s:grams>104</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9769571980</id>
+    <published>2017-02-23T19:39:25-05:00</published>
+    <updated>2017-02-23T19:39:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/s-f-hair-clay-85ml"/>
+    <title>S&amp;F - Hair Clay - 85ml</title>
+    <s:type>Styling Products - Hair Clay</s:type>
+    <s:vendor>Scaramouche &amp; Fandango</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/SF-HC85ML_hairclay_85ml_open.jpg?v=1487899117"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Scaramouche &amp; Fandango<br>
+        <strong>Type: </strong>Styling Products - Hair Clay<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769571980</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>SF-HC85ML</s:sku>
+      <s:grams>104</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9769571852</id>
+    <published>2017-02-23T19:39:25-05:00</published>
+    <updated>2017-02-23T19:39:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/s-f-face-scrub-100ml"/>
+    <title>S&amp;F - Face Scrub - 100ml</title>
+    <s:type>Skin Care - Facial Scrubs</s:type>
+    <s:vendor>Scaramouche &amp; Fandango</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/SF-FS100MT_facescrub-100ml_F.jpg?v=1487898885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Scaramouche &amp; Fandango<br>
+        <strong>Type: </strong>Skin Care - Facial Scrubs<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769571852</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>SF-FS100MT</s:sku>
+      <s:grams>117</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9769571788</id>
+    <published>2017-02-23T19:39:24-05:00</published>
+    <updated>2017-02-23T19:39:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/s-f-conditioner-200ml"/>
+    <title>S&amp;F - Conditioner - 200ml</title>
+    <s:type>Hair Care - Conditioner</s:type>
+    <s:vendor>Scaramouche &amp; Fandango</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/SF-CD200MT_conditioner-200ml-F.jpg?v=1487898034"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Scaramouche &amp; Fandango<br>
+        <strong>Type: </strong>Hair Care - Conditioner<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769571788</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>SF-CD200MT</s:sku>
+      <s:grams>216</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9769571724</id>
+    <published>2017-02-23T19:39:24-05:00</published>
+    <updated>2017-02-23T19:39:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/s-f-body-wash-50ml"/>
+    <title>S&amp;F - Body Wash - 50ml</title>
+    <s:type>Soap, Toliet Use - Liquid Soap, Bath</s:type>
+    <s:vendor>Scaramouche &amp; Fandango</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/SF-BW50MT_bodywash-50ml_F.jpg?v=1487897678"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Scaramouche &amp; Fandango<br>
+        <strong>Type: </strong>Soap, Toliet Use - Liquid Soap, Bath<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769571724</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>SF-BW50MT</s:sku>
+      <s:grams>62</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9769571660</id>
+    <published>2017-02-23T19:39:24-05:00</published>
+    <updated>2017-02-23T19:39:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/s-f-body-wash-200ml"/>
+    <title>S&amp;F - Body Wash - 200ml</title>
+    <s:type>Soap, Toliet Use - Liquid Soap, Bath</s:type>
+    <s:vendor>Scaramouche &amp; Fandango</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/SF-SW200MT_bodywash-200ml_F.jpg?v=1487897619"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Scaramouche &amp; Fandango<br>
+        <strong>Type: </strong>Soap, Toliet Use - Liquid Soap, Bath<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769571660</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>SF-BW200MT</s:sku>
+      <s:grams>221</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9769571468</id>
+    <published>2017-02-23T19:39:23-05:00</published>
+    <updated>2017-02-23T19:39:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/s-f-50ml-travel-pack"/>
+    <title>S&amp;F - 50ml Travel Pack</title>
+    <s:type>Gift Packs &amp; Sets - Multipiece Packs</s:type>
+    <s:vendor>Scaramouche &amp; Fandango</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/SF-50MTPK_travelpack_50ml_F.jpg?v=1487897575"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Scaramouche &amp; Fandango<br>
+        <strong>Type: </strong>Gift Packs &amp; Sets - Multipiece Packs<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769571468</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>SF-50MTPK</s:sku>
+      <s:grams>292</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9769572748</id>
+    <published>2017-02-23T19:39:00-05:00</published>
+    <updated>2017-02-23T19:39:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/s-f-4-in-1-sports-wash-250ml"/>
+    <title>S&amp;F - 4 in 1 Sports Wash - 250ml</title>
+    <s:type>Hair Care - Shampoo</s:type>
+    <s:vendor>Scaramouche &amp; Fandango</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/SF-SW250MT_4in1sportswash_F.jpg?v=1487897082"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Scaramouche &amp; Fandango<br>
+        <strong>Type: </strong>Hair Care - Shampoo<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769572748</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>SF-SW250MT</s:sku>
+      <s:grams>276</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.voreia.ca/products/9769572172</id>
+    <published>2017-02-23T19:39:00-05:00</published>
+    <updated>2017-02-23T19:39:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.voreia.ca/products/s-f-hair-pomade"/>
+    <title>S&amp;F - Hair Pomade 85ml</title>
+    <s:type>Styling Products - Hair Pomade</s:type>
+    <s:vendor>Scaramouche &amp; Fandango</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1698/1911/products/SF-HP85ML_hairpommade_85ml_open.jpg?v=1487899345"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Scaramouche &amp; Fandango<br>
+        <strong>Type: </strong>Styling Products - Hair Pomade<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.voreia.ca/products/9769572172</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>SF-HP85ML</s:sku>
+      <s:grams>104</s:grams>
+    </s:variant>
+  </entry>
+</feed>
